@@ -1,0 +1,3383 @@
+[
+    {
+        "id": 1,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 1,
+        "topic": "Basic Structure of Computer"
+    },
+    {
+        "id": 2,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 1,
+        "topic": "Structure of Desktop Computers"
+    },
+    {
+        "id": 3,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 1,
+        "topic": "CPU"
+    },
+    {
+        "id": 4,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 1,
+        "topic": "General Register Organization"
+    },
+    {
+        "id": 5,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 1,
+        "topic": "Memory Register"
+    },
+    {
+        "id": 6,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 1,
+        "topic": "Instruction Register"
+    },
+    {
+        "id": 7,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 1,
+        "topic": "Control Word"
+    },
+    {
+        "id": 8,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 1,
+        "topic": "Stack Organization"
+    },
+    {
+        "id": 9,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 1,
+        "topic": "Instruction Format"
+    },
+    {
+        "id": 10,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 1,
+        "topic": "ALU"
+    },
+    {
+        "id": 11,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 1,
+        "topic": "I/O System"
+    },
+    {
+        "id": 12,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 1,
+        "topic": "Bus"
+    },
+    {
+        "id": 13,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 1,
+        "topic": "CPU and Memory"
+    },
+    {
+        "id": 14,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 1,
+        "topic": "Program Counter"
+    },
+    {
+        "id": 15,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 1,
+        "topic": "Bus Structure"
+    },
+    {
+        "id": 16,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 1,
+        "topic": "Register Transfer Language"
+    },
+    {
+        "id": 17,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 1,
+        "topic": "Bus and Memory Transfer"
+    },
+    {
+        "id": 18,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 1,
+        "topic": "Addressing Modes"
+    },
+    {
+        "id": 19,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 1,
+        "topic": "Control Unit Organization"
+    },
+    {
+        "id": 20,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 1,
+        "topic": "Basic Concept of Instruction"
+    },
+    {
+        "id": 21,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 1,
+        "topic": "Instruction Types"
+    },
+    {
+        "id": 22,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 1,
+        "topic": "Micro Instruction Formats"
+    },
+    {
+        "id": 23,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 1,
+        "topic": "Fetch and Execution Cycle"
+    },
+    {
+        "id": 24,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 1,
+        "topic": "Hardwired Control Unit"
+    },
+    {
+        "id": 25,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 1,
+        "topic": "Micro-programmed Control Unit"
+    },
+    {
+        "id": 26,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 1,
+        "topic": "Microprogram Sequencer"
+    },
+    {
+        "id": 27,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 1,
+        "topic": "Control Memory"
+    },
+    {
+        "id": 28,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 1,
+        "topic": "Sequencing and Execution of Micro Instruction"
+    },
+    {
+        "id": 29,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 2,
+        "topic": "Computer Arithmetic"
+    },
+    {
+        "id": 30,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 2,
+        "topic": "Addition and Subtraction"
+    },
+    {
+        "id": 31,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 2,
+        "topic": "Two's Complement Representation"
+    },
+    {
+        "id": 32,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 2,
+        "topic": "Signed Addition and Subtraction"
+    },
+    {
+        "id": 33,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 2,
+        "topic": "Multiplication and Division"
+    },
+    {
+        "id": 34,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 2,
+        "topic": "Booth's Algorithm"
+    },
+    {
+        "id": 35,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 2,
+        "topic": "Division Operation"
+    },
+    {
+        "id": 36,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 2,
+        "topic": "Floating Point Arithmetic Operation"
+    },
+    {
+        "id": 37,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 2,
+        "topic": "Number Concept"
+    },
+    {
+        "id": 38,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 2,
+        "topic": "One's Complement Representation"
+    },
+    {
+        "id": 39,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 2,
+        "topic": "Two's Complement Representation"
+    },
+    {
+        "id": 40,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 2,
+        "topic": "Addition and Subtraction using Two's Complement"
+    },
+    {
+        "id": 41,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 3,
+        "topic": "I/O Organization"
+    },
+    {
+        "id": 42,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 3,
+        "topic": "I/O Interface"
+    },
+    {
+        "id": 43,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 3,
+        "topic": "PCI Bus"
+    },
+    {
+        "id": 44,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 3,
+        "topic": "SCSI Bus"
+    },
+    {
+        "id": 45,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 3,
+        "topic": "USB"
+    },
+    {
+        "id": 46,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 3,
+        "topic": "Data Transfer"
+    },
+    {
+        "id": 47,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 3,
+        "topic": "Serial Data Transfer"
+    },
+    {
+        "id": 48,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 3,
+        "topic": "Parallel Data Transfer"
+    },
+    {
+        "id": 49,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 3,
+        "topic": "Synchronous Data Transfer"
+    },
+    {
+        "id": 50,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 3,
+        "topic": "Asynchronous Data Transfer"
+    },
+    {
+        "id": 51,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 3,
+        "topic": "Direct Memory Access (DMA)"
+    },
+    {
+        "id": 52,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 3,
+        "topic": "I/O Processor"
+    },
+    {
+        "id": 53,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 4,
+        "topic": "Memory Organization"
+    },
+    {
+        "id": 54,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 4,
+        "topic": "Main Memory"
+    },
+    {
+        "id": 55,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 4,
+        "topic": "RAM"
+    },
+    {
+        "id": 56,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 4,
+        "topic": "ROM"
+    },
+    {
+        "id": 57,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 4,
+        "topic": "Secondary Memory"
+    },
+    {
+        "id": 58,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 4,
+        "topic": "Magnetic Tape"
+    },
+    {
+        "id": 59,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 4,
+        "topic": "Disk"
+    },
+    {
+        "id": 60,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 4,
+        "topic": "Optical Storage"
+    },
+    {
+        "id": 61,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 4,
+        "topic": "Cache Memory"
+    },
+    {
+        "id": 62,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 4,
+        "topic": "Cache Structure and Design"
+    },
+    {
+        "id": 63,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 4,
+        "topic": "Mapping Scheme"
+    },
+    {
+        "id": 64,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 4,
+        "topic": "Replacement Algorithm"
+    },
+    {
+        "id": 65,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 4,
+        "topic": "Improving Cache Performance"
+    },
+    {
+        "id": 66,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 4,
+        "topic": "Virtual Memory"
+    },
+    {
+        "id": 67,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 4,
+        "topic": "Memory Management Hardware"
+    },
+    {
+        "id": 68,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 5,
+        "topic": "Multiprocessors"
+    },
+    {
+        "id": 69,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 5,
+        "topic": "Characteristics of Multiprocessor"
+    },
+    {
+        "id": 70,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 5,
+        "topic": "Inter-Processor Communication"
+    },
+    {
+        "id": 71,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 5,
+        "topic": "Synchronization"
+    },
+    {
+        "id": 72,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 5,
+        "topic": "Memory in Multiprocessor System"
+    },
+    {
+        "id": 73,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 5,
+        "topic": "Concept of Pipelining"
+    },
+    {
+        "id": 74,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 5,
+        "topic": "Vector Processing"
+    },
+    {
+        "id": 75,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 5,
+        "topic": "Array Processing"
+    },
+    {
+        "id": 76,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 5,
+        "topic": "RISC"
+    },
+    {
+        "id": 77,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 5,
+        "topic": "CISC"
+    },
+    {
+        "id": 78,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 5,
+        "topic": "Study of Multicore Processor"
+    },
+    {
+        "id": 79,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 5,
+        "topic": "Intel"
+    },
+    {
+        "id": 80,
+        "course_code": "CL01",
+        "course_name": "Computer Organization & Architecture",
+        "module": 5,
+        "topic": "AMD"
+    },
+    {
+        "id": 81,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 1,
+        "topic": "Review of C++ programming language"
+    },
+    {
+        "id": 82,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 1,
+        "topic": "Introduction to Data Structure"
+    },
+    {
+        "id": 83,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 1,
+        "topic": "Concepts of Data and Information"
+    },
+    {
+        "id": 84,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 1,
+        "topic": "Classification of Data structures"
+    },
+    {
+        "id": 85,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 1,
+        "topic": "Abstract Data Types"
+    },
+    {
+        "id": 86,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 1,
+        "topic": "Memory representation"
+    },
+    {
+        "id": 87,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 1,
+        "topic": "Time Complexity"
+    },
+    {
+        "id": 88,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 1,
+        "topic": "Space Complexity"
+    },
+    {
+        "id": 89,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 1,
+        "topic": "Data structures operations and its cost estimation"
+    },
+    {
+        "id": 90,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 1,
+        "topic": "Basics of Asymptotic notation"
+    },
+    {
+        "id": 91,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 1,
+        "topic": "Arrays"
+    },
+    {
+        "id": 92,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 1,
+        "topic": "String representation and Operations"
+    },
+    {
+        "id": 93,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 1,
+        "topic": "Linked List"
+    },
+    {
+        "id": 94,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 1,
+        "topic": "Representation of linked list in memory"
+    },
+    {
+        "id": 95,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 1,
+        "topic": "Different implementation of linked list"
+    },
+    {
+        "id": 96,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 1,
+        "topic": "Circular linked list"
+    },
+    {
+        "id": 97,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 1,
+        "topic": "Doubly linked list"
+    },
+    {
+        "id": 98,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 1,
+        "topic": "Polynomial manipulation using linked list"
+    },
+    {
+        "id": 99,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 2,
+        "topic": "Stacks as ADT"
+    },
+    {
+        "id": 100,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 2,
+        "topic": "Different implementation of stack"
+    },
+    {
+        "id": 101,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 2,
+        "topic": "Multiple stacks"
+    },
+    {
+        "id": 102,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 2,
+        "topic": "Conversion of infix to postfix notation using stack"
+    },
+    {
+        "id": 103,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 2,
+        "topic": "Evaluation of postfix expression"
+    },
+    {
+        "id": 104,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 2,
+        "topic": "Recursion"
+    },
+    {
+        "id": 105,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 2,
+        "topic": "Queues as ADT"
+    },
+    {
+        "id": 106,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 2,
+        "topic": "Different implementation of queue"
+    },
+    {
+        "id": 107,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 2,
+        "topic": "Circular queue"
+    },
+    {
+        "id": 108,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 2,
+        "topic": "Dequeue"
+    },
+    {
+        "id": 109,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 2,
+        "topic": "Priority Queue"
+    },
+    {
+        "id": 110,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 2,
+        "topic": "Queue simulation"
+    },
+    {
+        "id": 111,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 2,
+        "topic": "Application of queues"
+    },
+    {
+        "id": 112,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 3,
+        "topic": "Tree definitions"
+    },
+    {
+        "id": 113,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 3,
+        "topic": "Height"
+    },
+    {
+        "id": 114,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 3,
+        "topic": "Depth"
+    },
+    {
+        "id": 115,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 3,
+        "topic": "Order"
+    },
+    {
+        "id": 116,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 3,
+        "topic": "Degree"
+    },
+    {
+        "id": 117,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 3,
+        "topic": "Binary Search Tree"
+    },
+    {
+        "id": 118,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 3,
+        "topic": "BST operations"
+    },
+    {
+        "id": 119,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 3,
+        "topic": "Tree traversal"
+    },
+    {
+        "id": 120,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 3,
+        "topic": "Search"
+    },
+    {
+        "id": 121,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 3,
+        "topic": "AVL Tree"
+    },
+    {
+        "id": 122,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 3,
+        "topic": "Heap"
+    },
+    {
+        "id": 123,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 3,
+        "topic": "Applications of various types of tree"
+    },
+    {
+        "id": 124,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 3,
+        "topic": "Comparison of various types of tree"
+    },
+    {
+        "id": 125,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 3,
+        "topic": "Forest"
+    },
+    {
+        "id": 126,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 3,
+        "topic": "Multi-way Tree"
+    },
+    {
+        "id": 127,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 3,
+        "topic": "B Tree"
+    },
+    {
+        "id": 128,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 3,
+        "topic": "B+ Tree"
+    },
+    {
+        "id": 129,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 3,
+        "topic": "B* Tree"
+    },
+    {
+        "id": 130,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 3,
+        "topic": "Red-black tree"
+    },
+    {
+        "id": 131,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 4,
+        "topic": "Introduction to graphs"
+    },
+    {
+        "id": 132,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 4,
+        "topic": "Directed graphs"
+    },
+    {
+        "id": 133,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 4,
+        "topic": "Undirected graphs"
+    },
+    {
+        "id": 134,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 4,
+        "topic": "Graph representation"
+    },
+    {
+        "id": 135,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 4,
+        "topic": "Depth First Search (DFS)"
+    },
+    {
+        "id": 136,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 4,
+        "topic": "Breadth First Search (BFS)"
+    },
+    {
+        "id": 137,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 4,
+        "topic": "Minimum Spanning Tree (MST)"
+    },
+    {
+        "id": 138,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 4,
+        "topic": "Kruskal's algorithm"
+    },
+    {
+        "id": 139,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 4,
+        "topic": "Prim's algorithm"
+    },
+    {
+        "id": 140,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 4,
+        "topic": "Dijkstra's shortest path algorithm"
+    },
+    {
+        "id": 141,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 4,
+        "topic": "Comparison between different graph algorithms"
+    },
+    {
+        "id": 142,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 4,
+        "topic": "Applications of graphs"
+    },
+    {
+        "id": 143,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 5,
+        "topic": "Introduction to sorting"
+    },
+    {
+        "id": 144,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 5,
+        "topic": "Classification of sorting methods"
+    },
+    {
+        "id": 145,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 5,
+        "topic": "Bubble Sort"
+    },
+    {
+        "id": 146,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 5,
+        "topic": "Quick Sort"
+    },
+    {
+        "id": 147,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 5,
+        "topic": "Selection Sort"
+    },
+    {
+        "id": 148,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 5,
+        "topic": "Heap Sort"
+    },
+    {
+        "id": 149,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 5,
+        "topic": "Insertion Sort"
+    },
+    {
+        "id": 150,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 5,
+        "topic": "Shell Sort"
+    },
+    {
+        "id": 151,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 5,
+        "topic": "Merge Sort"
+    },
+    {
+        "id": 152,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 5,
+        "topic": "Radix Sort"
+    },
+    {
+        "id": 153,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 5,
+        "topic": "Comparison of various sorting techniques"
+    },
+    {
+        "id": 154,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 5,
+        "topic": "Sequential Search"
+    },
+    {
+        "id": 155,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 5,
+        "topic": "Binary Search"
+    },
+    {
+        "id": 156,
+        "course_code": "CL02",
+        "course_name": "Data Structure & Algorithm",
+        "module": 5,
+        "topic": "Comparison of search methods"
+    },
+    {
+        "id": 157,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 1,
+        "topic": "Introduction to Object Oriented Programming"
+    },
+    {
+        "id": 158,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 1,
+        "topic": "Comparison with Procedural Programming"
+    },
+    {
+        "id": 159,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 1,
+        "topic": "Features of Object-oriented paradigm"
+    },
+    {
+        "id": 160,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 1,
+        "topic": "Merits and demerits of OO methodology"
+    },
+    {
+        "id": 161,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 1,
+        "topic": "Introduction to Java Development Kit (JDK)"
+    },
+    {
+        "id": 162,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 1,
+        "topic": "Java Virtual Machine (JVM)"
+    },
+    {
+        "id": 163,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 1,
+        "topic": "Linker and Loader"
+    },
+    {
+        "id": 164,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 1,
+        "topic": "Data Encapsulation"
+    },
+    {
+        "id": 165,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 1,
+        "topic": "Concept of Classes and Objects"
+    },
+    {
+        "id": 166,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 1,
+        "topic": "State, Behavior and Identity of an object"
+    },
+    {
+        "id": 167,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 2,
+        "topic": "Data Abstraction"
+    },
+    {
+        "id": 168,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 2,
+        "topic": "Message Passing"
+    },
+    {
+        "id": 169,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 2,
+        "topic": "Methods"
+    },
+    {
+        "id": 170,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 2,
+        "topic": "Calling of constructors"
+    },
+    {
+        "id": 171,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 2,
+        "topic": "Decision making constructs"
+    },
+    {
+        "id": 172,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 2,
+        "topic": "Control loops"
+    },
+    {
+        "id": 173,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 2,
+        "topic": "Keyword: this"
+    },
+    {
+        "id": 174,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 2,
+        "topic": "Keyword: static"
+    },
+    {
+        "id": 175,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 2,
+        "topic": "Access modifiers"
+    },
+    {
+        "id": 176,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 2,
+        "topic": "Arrays within a class"
+    },
+    {
+        "id": 177,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 2,
+        "topic": "String Class"
+    },
+    {
+        "id": 178,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 3,
+        "topic": "Relationship between classes"
+    },
+    {
+        "id": 179,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 3,
+        "topic": "Generalization"
+    },
+    {
+        "id": 180,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 3,
+        "topic": "Inheritance"
+    },
+    {
+        "id": 181,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 3,
+        "topic": "Types of Inheritance"
+    },
+    {
+        "id": 182,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 3,
+        "topic": "Ambiguity in multiple inheritances"
+    },
+    {
+        "id": 183,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 3,
+        "topic": "Concept of interfaces"
+    },
+    {
+        "id": 184,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 3,
+        "topic": "Specialization"
+    },
+    {
+        "id": 185,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 3,
+        "topic": "Association"
+    },
+    {
+        "id": 186,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 3,
+        "topic": "Aggregation"
+    },
+    {
+        "id": 187,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 3,
+        "topic": "Composition"
+    },
+    {
+        "id": 188,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 3,
+        "topic": "Static Binding"
+    },
+    {
+        "id": 189,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 3,
+        "topic": "Dynamic Binding"
+    },
+    {
+        "id": 190,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 3,
+        "topic": "Polymorphism"
+    },
+    {
+        "id": 191,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 3,
+        "topic": "Method Overriding"
+    },
+    {
+        "id": 192,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 3,
+        "topic": "Method Overloading"
+    },
+    {
+        "id": 193,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 3,
+        "topic": "Keyword: super"
+    },
+    {
+        "id": 194,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 3,
+        "topic": "Keyword: abstract"
+    },
+    {
+        "id": 195,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 3,
+        "topic": "Keyword: final"
+    },
+    {
+        "id": 196,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 4,
+        "topic": "Concept of Packages"
+    },
+    {
+        "id": 197,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 4,
+        "topic": "Need of package"
+    },
+    {
+        "id": 198,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 4,
+        "topic": "Basic idea of exception handling"
+    },
+    {
+        "id": 199,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 4,
+        "topic": "Stack-based execution"
+    },
+    {
+        "id": 200,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 4,
+        "topic": "Exception propagation"
+    },
+    {
+        "id": 201,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 4,
+        "topic": "Exception types"
+    },
+    {
+        "id": 202,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 4,
+        "topic": "Try"
+    },
+    {
+        "id": 203,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 4,
+        "topic": "Catch"
+    },
+    {
+        "id": 204,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 4,
+        "topic": "Finally"
+    },
+    {
+        "id": 205,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 4,
+        "topic": "Throw statement"
+    },
+    {
+        "id": 206,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 4,
+        "topic": "Assertions"
+    },
+    {
+        "id": 207,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 5,
+        "topic": "Overview of Simple threads"
+    },
+    {
+        "id": 208,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 5,
+        "topic": "Basic idea of Multithreaded Programming"
+    },
+    {
+        "id": 209,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 5,
+        "topic": "Thread synchronization"
+    },
+    {
+        "id": 210,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 5,
+        "topic": "Locks"
+    },
+    {
+        "id": 211,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 5,
+        "topic": "Synchronized methods"
+    },
+    {
+        "id": 212,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 5,
+        "topic": "Synchronized block"
+    },
+    {
+        "id": 213,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 5,
+        "topic": "Thread scheduling"
+    },
+    {
+        "id": 214,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 5,
+        "topic": "Producer-consumer relationship"
+    },
+    {
+        "id": 215,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 5,
+        "topic": "Daemon thread"
+    },
+    {
+        "id": 216,
+        "course_code": "CL03",
+        "course_name": "Object Oriented Programming & Methodology",
+        "module": 5,
+        "topic": "Case Study: Chabot implementation"
+    },
+    {
+        "id": 217,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 1,
+        "topic": "Meaning and definition of Artificial Intelligence"
+    },
+    {
+        "id": 218,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 1,
+        "topic": "Physical Symbol System Hypothesis"
+    },
+    {
+        "id": 219,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 1,
+        "topic": "Production systems"
+    },
+    {
+        "id": 220,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 1,
+        "topic": "Characteristics of production systems"
+    },
+    {
+        "id": 221,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 1,
+        "topic": "Breadth First Search"
+    },
+    {
+        "id": 222,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 1,
+        "topic": "Depth First Search"
+    },
+    {
+        "id": 223,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 1,
+        "topic": "Heuristic search techniques"
+    },
+    {
+        "id": 224,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 1,
+        "topic": "Hill Climbing"
+    },
+    {
+        "id": 225,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 1,
+        "topic": "Iterative Deepening DFS"
+    },
+    {
+        "id": 226,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 1,
+        "topic": "Bidirectional Search"
+    },
+    {
+        "id": 227,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 1,
+        "topic": "Analysis of search methods"
+    },
+    {
+        "id": 228,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 1,
+        "topic": "A* Algorithm"
+    },
+    {
+        "id": 229,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 1,
+        "topic": "Analysis of A* Algorithm"
+    },
+    {
+        "id": 230,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 2,
+        "topic": "Introduction to Genetic Algorithms"
+    },
+    {
+        "id": 231,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 2,
+        "topic": "Knowledge Representation"
+    },
+    {
+        "id": 232,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 2,
+        "topic": "Problems in representing knowledge"
+    },
+    {
+        "id": 233,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 2,
+        "topic": "Knowledge representation using propositional logic"
+    },
+    {
+        "id": 234,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 2,
+        "topic": "Knowledge representation using predicate logic"
+    },
+    {
+        "id": 235,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 2,
+        "topic": "Logical consequences"
+    },
+    {
+        "id": 236,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 2,
+        "topic": "Syntax and semantics of an expression"
+    },
+    {
+        "id": 237,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 2,
+        "topic": "Semantic Tableau"
+    },
+    {
+        "id": 238,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 2,
+        "topic": "Forward reasoning"
+    },
+    {
+        "id": 239,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 2,
+        "topic": "Backward reasoning"
+    },
+    {
+        "id": 240,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 2,
+        "topic": "Proof methods"
+    },
+    {
+        "id": 241,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 2,
+        "topic": "Substitution and unification"
+    },
+    {
+        "id": 242,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 2,
+        "topic": "Conversion to clausal form"
+    },
+    {
+        "id": 243,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 2,
+        "topic": "Normal forms"
+    },
+    {
+        "id": 244,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 2,
+        "topic": "Resolution"
+    },
+    {
+        "id": 245,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 2,
+        "topic": "Refutation"
+    },
+    {
+        "id": 246,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 2,
+        "topic": "Deduction"
+    },
+    {
+        "id": 247,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 2,
+        "topic": "Theorem proving"
+    },
+    {
+        "id": 248,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 2,
+        "topic": "Inferencing"
+    },
+    {
+        "id": 249,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 2,
+        "topic": "Monotonic reasoning"
+    },
+    {
+        "id": 250,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 2,
+        "topic": "Nonmonotonic reasoning"
+    },
+    {
+        "id": 251,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 3,
+        "topic": "Introduction to Prolog"
+    },
+    {
+        "id": 252,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 3,
+        "topic": "Network-based representation and reasoning"
+    },
+    {
+        "id": 253,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 3,
+        "topic": "Semantic networks"
+    },
+    {
+        "id": 254,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 3,
+        "topic": "Conceptual Graphs"
+    },
+    {
+        "id": 255,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 3,
+        "topic": "Frames"
+    },
+    {
+        "id": 256,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 3,
+        "topic": "Description Logic (DL)"
+    },
+    {
+        "id": 257,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 3,
+        "topic": "Concept language"
+    },
+    {
+        "id": 258,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 3,
+        "topic": "Reasoning using Description Logic"
+    },
+    {
+        "id": 259,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 3,
+        "topic": "Conceptual Dependencies (CD)"
+    },
+    {
+        "id": 260,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 3,
+        "topic": "Scripts"
+    },
+    {
+        "id": 261,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 3,
+        "topic": "Reasoning using Conceptual Dependencies"
+    },
+    {
+        "id": 262,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 4,
+        "topic": "Introduction to Natural Language Processing"
+    },
+    {
+        "id": 263,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 4,
+        "topic": "Adversarial Search"
+    },
+    {
+        "id": 264,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 4,
+        "topic": "Game Theory"
+    },
+    {
+        "id": 265,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 4,
+        "topic": "Classification of games"
+    },
+    {
+        "id": 266,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 4,
+        "topic": "Game playing strategies"
+    },
+    {
+        "id": 267,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 4,
+        "topic": "Prisoner's Dilemma"
+    },
+    {
+        "id": 268,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 4,
+        "topic": "Game playing techniques"
+    },
+    {
+        "id": 269,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 4,
+        "topic": "Minimax procedure"
+    },
+    {
+        "id": 270,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 4,
+        "topic": "Alpha-beta cut-offs"
+    },
+    {
+        "id": 271,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 4,
+        "topic": "Complexity of alpha-beta search"
+    },
+    {
+        "id": 272,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 4,
+        "topic": "Automated planning"
+    },
+    {
+        "id": 273,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 4,
+        "topic": "Classical planning problem"
+    },
+    {
+        "id": 274,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 4,
+        "topic": "Forward planning"
+    },
+    {
+        "id": 275,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 4,
+        "topic": "Partial order planning"
+    },
+    {
+        "id": 276,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 4,
+        "topic": "Planning with proposal logic"
+    },
+    {
+        "id": 277,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 4,
+        "topic": "Hierarchical task planning"
+    },
+    {
+        "id": 278,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 4,
+        "topic": "Multi-agent planning"
+    },
+    {
+        "id": 279,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 5,
+        "topic": "Reasoning in uncertain environments"
+    },
+    {
+        "id": 280,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 5,
+        "topic": "Fuzzy logic"
+    },
+    {
+        "id": 281,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 5,
+        "topic": "Fuzzy composition relation"
+    },
+    {
+        "id": 282,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 5,
+        "topic": "Operations on fuzzy sets"
+    },
+    {
+        "id": 283,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 5,
+        "topic": "Probabilistic reasoning"
+    },
+    {
+        "id": 284,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 5,
+        "topic": "Bayes theorem"
+    },
+    {
+        "id": 285,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 5,
+        "topic": "Construction of Bayesian networks"
+    },
+    {
+        "id": 286,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 5,
+        "topic": "Belief propagation"
+    },
+    {
+        "id": 287,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 5,
+        "topic": "Markov processes"
+    },
+    {
+        "id": 288,
+        "course_code": "CL04",
+        "course_name": "Introduction to Artificial Intelligence",
+        "module": 5,
+        "topic": "Hidden Markov models"
+    },
+    {
+        "id": 289,
+        "course_code": "CL01(P)",
+        "course_name": "Computer System Organization Lab",
+        "module": 1,
+        "topic": "Introduction to Desktop Computers"
+    },
+    {
+        "id": 290,
+        "course_code": "CL01(P)",
+        "course_name": "Computer System Organization Lab",
+        "module": 1,
+        "topic": "Introduction to 8085 microprocessor"
+    },
+    {
+        "id": 291,
+        "course_code": "CL01(P)",
+        "course_name": "Computer System Organization Lab",
+        "module": 1,
+        "topic": "8085 Instruction set"
+    },
+    {
+        "id": 292,
+        "course_code": "CL01(P)",
+        "course_name": "Computer System Organization Lab",
+        "module": 1,
+        "topic": "Flags"
+    },
+    {
+        "id": 293,
+        "course_code": "CL01(P)",
+        "course_name": "Computer System Organization Lab",
+        "module": 1,
+        "topic": "Logic Gates"
+    },
+    {
+        "id": 294,
+        "course_code": "CL01(P)",
+        "course_name": "Computer System Organization Lab",
+        "module": 1,
+        "topic": "Combinational circuits"
+    },
+    {
+        "id": 295,
+        "course_code": "CL01(P)",
+        "course_name": "Computer System Organization Lab",
+        "module": 1,
+        "topic": "Multiplexer"
+    },
+    {
+        "id": 296,
+        "course_code": "CL01(P)",
+        "course_name": "Computer System Organization Lab",
+        "module": 1,
+        "topic": "Demultiplexer"
+    },
+    {
+        "id": 297,
+        "course_code": "CL01(P)",
+        "course_name": "Computer System Organization Lab",
+        "module": 2,
+        "topic": "Introduction to Binary number systems"
+    },
+    {
+        "id": 298,
+        "course_code": "CL01(P)",
+        "course_name": "Computer System Organization Lab",
+        "module": 2,
+        "topic": "1's Complement"
+    },
+    {
+        "id": 299,
+        "course_code": "CL01(P)",
+        "course_name": "Computer System Organization Lab",
+        "module": 2,
+        "topic": "2's Complement"
+    },
+    {
+        "id": 300,
+        "course_code": "CL01(P)",
+        "course_name": "Computer System Organization Lab",
+        "module": 2,
+        "topic": "Arithmetic Operations"
+    },
+    {
+        "id": 301,
+        "course_code": "CL01(P)",
+        "course_name": "Computer System Organization Lab",
+        "module": 2,
+        "topic": "Half adder"
+    },
+    {
+        "id": 302,
+        "course_code": "CL01(P)",
+        "course_name": "Computer System Organization Lab",
+        "module": 2,
+        "topic": "Half subtractor"
+    },
+    {
+        "id": 303,
+        "course_code": "CL01(P)",
+        "course_name": "Computer System Organization Lab",
+        "module": 2,
+        "topic": "Full Adder"
+    },
+    {
+        "id": 304,
+        "course_code": "CL01(P)",
+        "course_name": "Computer System Organization Lab",
+        "module": 2,
+        "topic": "Full Subtractor"
+    },
+    {
+        "id": 305,
+        "course_code": "CL01(P)",
+        "course_name": "Computer System Organization Lab",
+        "module": 3,
+        "topic": "Introduction to Assembly Language"
+    },
+    {
+        "id": 306,
+        "course_code": "CL01(P)",
+        "course_name": "Computer System Organization Lab",
+        "module": 3,
+        "topic": "Programming Arithmetic and Logic Operations"
+    },
+    {
+        "id": 307,
+        "course_code": "CL01(P)",
+        "course_name": "Computer System Organization Lab",
+        "module": 3,
+        "topic": "Shift Operations"
+    },
+    {
+        "id": 308,
+        "course_code": "CL01(P)",
+        "course_name": "Computer System Organization Lab",
+        "module": 3,
+        "topic": "Program Loops"
+    },
+    {
+        "id": 309,
+        "course_code": "CL01(P)",
+        "course_name": "Computer System Organization Lab",
+        "module": 4,
+        "topic": "Memory Hierarchy"
+    },
+    {
+        "id": 310,
+        "course_code": "CL01(P)",
+        "course_name": "Computer System Organization Lab",
+        "module": 4,
+        "topic": "Main Memory"
+    },
+    {
+        "id": 311,
+        "course_code": "CL01(P)",
+        "course_name": "Computer System Organization Lab",
+        "module": 4,
+        "topic": "Types of Memory"
+    },
+    {
+        "id": 312,
+        "course_code": "CL01(P)",
+        "course_name": "Computer System Organization Lab",
+        "module": 4,
+        "topic": "Memory Allocation Methods"
+    },
+    {
+        "id": 313,
+        "course_code": "CL01(P)",
+        "course_name": "Computer System Organization Lab",
+        "module": 4,
+        "topic": "Virtual Memory"
+    },
+    {
+        "id": 314,
+        "course_code": "CL01(P)",
+        "course_name": "Computer System Organization Lab",
+        "module": 4,
+        "topic": "Page Replacement Algorithms"
+    },
+    {
+        "id": 315,
+        "course_code": "CL01(P)",
+        "course_name": "Computer System Organization Lab",
+        "module": 5,
+        "topic": "Characteristics of Multiprocessor"
+    },
+    {
+        "id": 316,
+        "course_code": "CL01(P)",
+        "course_name": "Computer System Organization Lab",
+        "module": 5,
+        "topic": "RISC"
+    },
+    {
+        "id": 317,
+        "course_code": "CL01(P)",
+        "course_name": "Computer System Organization Lab",
+        "module": 5,
+        "topic": "CISC"
+    },
+    {
+        "id": 318,
+        "course_code": "CL01(P)",
+        "course_name": "Computer System Organization Lab",
+        "module": 5,
+        "topic": "Study of Multicore Processor – Intel"
+    },
+    {
+        "id": 319,
+        "course_code": "CL01(P)",
+        "course_name": "Computer System Organization Lab",
+        "module": 5,
+        "topic": "Study of Multicore Processor – AMD"
+    },
+    {
+        "id": 320,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 1,
+        "topic": "Arrays"
+    },
+    {
+        "id": 321,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 1,
+        "topic": "String"
+    },
+    {
+        "id": 322,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 1,
+        "topic": "Representation and Operations"
+    },
+    {
+        "id": 323,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 1,
+        "topic": "Linked List"
+    },
+    {
+        "id": 324,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 1,
+        "topic": "Representation of linked list in memory"
+    },
+    {
+        "id": 325,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 1,
+        "topic": "Different implementation of linked list"
+    },
+    {
+        "id": 326,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 1,
+        "topic": "Circular linked list"
+    },
+    {
+        "id": 327,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 1,
+        "topic": "Doubly linked list"
+    },
+    {
+        "id": 328,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 2,
+        "topic": "Stacks as ADT"
+    },
+    {
+        "id": 329,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 2,
+        "topic": "Different implementation of stack"
+    },
+    {
+        "id": 330,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 2,
+        "topic": "Multiple stacks"
+    },
+    {
+        "id": 331,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 2,
+        "topic": "Conversion of infix to postfix notation using stack"
+    },
+    {
+        "id": 332,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 2,
+        "topic": "Evaluation of postfix expression"
+    },
+    {
+        "id": 333,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 2,
+        "topic": "Recursion"
+    },
+    {
+        "id": 334,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 2,
+        "topic": "Example of recursion"
+    },
+    {
+        "id": 335,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 3,
+        "topic": "Queues as ADT"
+    },
+    {
+        "id": 336,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 3,
+        "topic": "Different implementation of queue"
+    },
+    {
+        "id": 337,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 3,
+        "topic": "Circular queue"
+    },
+    {
+        "id": 338,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 3,
+        "topic": "Dequeue"
+    },
+    {
+        "id": 339,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 3,
+        "topic": "Priority Queue"
+    },
+    {
+        "id": 340,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 3,
+        "topic": "Queue simulation"
+    },
+    {
+        "id": 341,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 3,
+        "topic": "Application of queues"
+    },
+    {
+        "id": 342,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 4,
+        "topic": "Tree definitions"
+    },
+    {
+        "id": 343,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 4,
+        "topic": "Height"
+    },
+    {
+        "id": 344,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 4,
+        "topic": "Depth"
+    },
+    {
+        "id": 345,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 4,
+        "topic": "Order"
+    },
+    {
+        "id": 346,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 4,
+        "topic": "Degree"
+    },
+    {
+        "id": 347,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 4,
+        "topic": "Binary Search Tree"
+    },
+    {
+        "id": 348,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 4,
+        "topic": "BST Operations"
+    },
+    {
+        "id": 349,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 4,
+        "topic": "Tree Traversal"
+    },
+    {
+        "id": 350,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 4,
+        "topic": "Search"
+    },
+    {
+        "id": 351,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 4,
+        "topic": "Graphs"
+    },
+    {
+        "id": 352,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 4,
+        "topic": "Directed graphs"
+    },
+    {
+        "id": 353,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 4,
+        "topic": "Undirected graphs"
+    },
+    {
+        "id": 354,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 4,
+        "topic": "Graph representation"
+    },
+    {
+        "id": 355,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 4,
+        "topic": "Depth First Search (DFS)"
+    },
+    {
+        "id": 356,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 4,
+        "topic": "Breadth First Search (BFS)"
+    },
+    {
+        "id": 357,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 5,
+        "topic": "Introduction to sorting"
+    },
+    {
+        "id": 358,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 5,
+        "topic": "Classification of sorting methods"
+    },
+    {
+        "id": 359,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 5,
+        "topic": "Bubble Sort"
+    },
+    {
+        "id": 360,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 5,
+        "topic": "Quick Sort"
+    },
+    {
+        "id": 361,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 5,
+        "topic": "Selection Sort"
+    },
+    {
+        "id": 362,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 5,
+        "topic": "Heap Sort"
+    },
+    {
+        "id": 363,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 5,
+        "topic": "Insertion Sort"
+    },
+    {
+        "id": 364,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 5,
+        "topic": "Sequential Search"
+    },
+    {
+        "id": 365,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 5,
+        "topic": "Binary Search"
+    },
+    {
+        "id": 366,
+        "course_code": "CL02(P)",
+        "course_name": "Data Structure & Algorithm Lab",
+        "module": 5,
+        "topic": "Comparison of search methods"
+    },
+    {
+        "id": 367,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 1,
+        "topic": "Introduction to Object Oriented Programming"
+    },
+    {
+        "id": 368,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 1,
+        "topic": "Basics of Java programming"
+    },
+    {
+        "id": 369,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 1,
+        "topic": "Data types"
+    },
+    {
+        "id": 370,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 1,
+        "topic": "Variables"
+    },
+    {
+        "id": 371,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 1,
+        "topic": "Operators"
+    },
+    {
+        "id": 372,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 1,
+        "topic": "Control structures"
+    },
+    {
+        "id": 373,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 1,
+        "topic": "Looping"
+    },
+    {
+        "id": 374,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 1,
+        "topic": "Introduction to Java Development Kit (JDK)"
+    },
+    {
+        "id": 375,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 1,
+        "topic": "Java Virtual Machine (JVM)"
+    },
+    {
+        "id": 376,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 1,
+        "topic": "Linker and Loader"
+    },
+    {
+        "id": 377,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 1,
+        "topic": "Data Encapsulation"
+    },
+    {
+        "id": 378,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 1,
+        "topic": "Concept of Classes and Objects"
+    },
+    {
+        "id": 379,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 2,
+        "topic": "Data Abstraction"
+    },
+    {
+        "id": 380,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 2,
+        "topic": "Message Passing"
+    },
+    {
+        "id": 381,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 2,
+        "topic": "Methods"
+    },
+    {
+        "id": 382,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 2,
+        "topic": "Constructors"
+    },
+    {
+        "id": 383,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 2,
+        "topic": "Keywords: this and static"
+    },
+    {
+        "id": 384,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 2,
+        "topic": "Access modifiers"
+    },
+    {
+        "id": 385,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 2,
+        "topic": "Arrays within a class"
+    },
+    {
+        "id": 386,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 2,
+        "topic": "String Class"
+    },
+    {
+        "id": 387,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 3,
+        "topic": "Relationship between classes"
+    },
+    {
+        "id": 388,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 3,
+        "topic": "Inheritance"
+    },
+    {
+        "id": 389,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 3,
+        "topic": "Types of Inheritance"
+    },
+    {
+        "id": 390,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 3,
+        "topic": "Ambiguity in multiple inheritances"
+    },
+    {
+        "id": 391,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 3,
+        "topic": "Concept of interfaces"
+    },
+    {
+        "id": 392,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 3,
+        "topic": "Association"
+    },
+    {
+        "id": 393,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 3,
+        "topic": "Aggregation"
+    },
+    {
+        "id": 394,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 3,
+        "topic": "Composition"
+    },
+    {
+        "id": 395,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 3,
+        "topic": "Static and Dynamic Binding"
+    },
+    {
+        "id": 396,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 3,
+        "topic": "Polymorphism"
+    },
+    {
+        "id": 397,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 3,
+        "topic": "Method Overriding"
+    },
+    {
+        "id": 398,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 3,
+        "topic": "Method Overloading"
+    },
+    {
+        "id": 399,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 3,
+        "topic": "Keywords: super, abstract, final"
+    },
+    {
+        "id": 400,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 4,
+        "topic": "Concept of Packages"
+    },
+    {
+        "id": 401,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 4,
+        "topic": "Need of package"
+    },
+    {
+        "id": 402,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 4,
+        "topic": "Basic idea of exception handling"
+    },
+    {
+        "id": 403,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 4,
+        "topic": "Exception types"
+    },
+    {
+        "id": 404,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 4,
+        "topic": "Try"
+    },
+    {
+        "id": 405,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 4,
+        "topic": "Catch"
+    },
+    {
+        "id": 406,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 4,
+        "topic": "Finally"
+    },
+    {
+        "id": 407,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 4,
+        "topic": "Throw statement"
+    },
+    {
+        "id": 408,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 4,
+        "topic": "Assertions"
+    },
+    {
+        "id": 409,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 5,
+        "topic": "Overview of Simple threads"
+    },
+    {
+        "id": 410,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 5,
+        "topic": "Thread life cycle and methods"
+    },
+    {
+        "id": 411,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 5,
+        "topic": "Runnable interface"
+    },
+    {
+        "id": 412,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 5,
+        "topic": "Thread synchronization"
+    },
+    {
+        "id": 413,
+        "course_code": "CL03(P)",
+        "course_name": "Object Oriented Programming & Methodology Lab",
+        "module": 5,
+        "topic": "Basic idea of Multithreaded Programming"
+    },
+    {
+        "id": 414,
+        "course_code": "CL04(P)",
+        "course_name": "Artificial Intelligence Lab",
+        "module": 1,
+        "topic": "Introduction to Prolog"
+    },
+    {
+        "id": 415,
+        "course_code": "CL04(P)",
+        "course_name": "Artificial Intelligence Lab",
+        "module": 1,
+        "topic": "Applications of Prolog"
+    },
+    {
+        "id": 416,
+        "course_code": "CL04(P)",
+        "course_name": "Artificial Intelligence Lab",
+        "module": 1,
+        "topic": "Expert Systems"
+    },
+    {
+        "id": 417,
+        "course_code": "CL04(P)",
+        "course_name": "Artificial Intelligence Lab",
+        "module": 1,
+        "topic": "Applications of Artificial Intelligence"
+    },
+    {
+        "id": 418,
+        "course_code": "CL04(P)",
+        "course_name": "Artificial Intelligence Lab",
+        "module": 2,
+        "topic": "Syntax and Meaning"
+    },
+    {
+        "id": 419,
+        "course_code": "CL04(P)",
+        "course_name": "Artificial Intelligence Lab",
+        "module": 2,
+        "topic": "Data Objects"
+    },
+    {
+        "id": 420,
+        "course_code": "CL04(P)",
+        "course_name": "Artificial Intelligence Lab",
+        "module": 2,
+        "topic": "Matching"
+    },
+    {
+        "id": 421,
+        "course_code": "CL04(P)",
+        "course_name": "Artificial Intelligence Lab",
+        "module": 2,
+        "topic": "Declarative and Procedural Meaning"
+    },
+    {
+        "id": 422,
+        "course_code": "CL04(P)",
+        "course_name": "Artificial Intelligence Lab",
+        "module": 2,
+        "topic": "AI Problem Solving"
+    },
+    {
+        "id": 423,
+        "course_code": "CL04(P)",
+        "course_name": "Artificial Intelligence Lab",
+        "module": 2,
+        "topic": "Monkey-Banana Problem"
+    },
+    {
+        "id": 424,
+        "course_code": "CL04(P)",
+        "course_name": "Artificial Intelligence Lab",
+        "module": 3,
+        "topic": "Lists in Prolog"
+    },
+    {
+        "id": 425,
+        "course_code": "CL04(P)",
+        "course_name": "Artificial Intelligence Lab",
+        "module": 3,
+        "topic": "Operations on Lists"
+    },
+    {
+        "id": 426,
+        "course_code": "CL04(P)",
+        "course_name": "Artificial Intelligence Lab",
+        "module": 4,
+        "topic": "Operators and Arithmetic"
+    },
+    {
+        "id": 427,
+        "course_code": "CL04(P)",
+        "course_name": "Artificial Intelligence Lab",
+        "module": 4,
+        "topic": "Structures"
+    },
+    {
+        "id": 428,
+        "course_code": "CL04(P)",
+        "course_name": "Artificial Intelligence Lab",
+        "module": 4,
+        "topic": "Database Retrieval"
+    },
+    {
+        "id": 429,
+        "course_code": "CL04(P)",
+        "course_name": "Artificial Intelligence Lab",
+        "module": 4,
+        "topic": "Data Abstraction"
+    },
+    {
+        "id": 430,
+        "course_code": "CL04(P)",
+        "course_name": "Artificial Intelligence Lab",
+        "module": 4,
+        "topic": "Nondeterministic Automaton"
+    },
+    {
+        "id": 431,
+        "course_code": "CL04(P)",
+        "course_name": "Artificial Intelligence Lab",
+        "module": 4,
+        "topic": "Travel Planning"
+    },
+    {
+        "id": 432,
+        "course_code": "CL04(P)",
+        "course_name": "Artificial Intelligence Lab",
+        "module": 5,
+        "topic": "Complex Problems"
+    },
+    {
+        "id": 433,
+        "course_code": "CL04(P)",
+        "course_name": "Artificial Intelligence Lab",
+        "module": 5,
+        "topic": "Eight Queens Problem"
+    },
+    {
+        "id": 434,
+        "course_code": "CL04(P)",
+        "course_name": "Artificial Intelligence Lab",
+        "module": 5,
+        "topic": "Backtracking Control"
+    },
+    {
+        "id": 435,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 1,
+        "topic": "History of Python"
+    },
+    {
+        "id": 436,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 1,
+        "topic": "Features of Python"
+    },
+    {
+        "id": 437,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 1,
+        "topic": "Python Environment Setup"
+    },
+    {
+        "id": 438,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 1,
+        "topic": "Installing Python"
+    },
+    {
+        "id": 439,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 1,
+        "topic": "Python IDE"
+    },
+    {
+        "id": 440,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 2,
+        "topic": "Python Syntax"
+    },
+    {
+        "id": 441,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 2,
+        "topic": "Identifiers"
+    },
+    {
+        "id": 442,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 2,
+        "topic": "Reserved Words"
+    },
+    {
+        "id": 443,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 2,
+        "topic": "Indentation"
+    },
+    {
+        "id": 444,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 2,
+        "topic": "Multiline Statements"
+    },
+    {
+        "id": 445,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 2,
+        "topic": "Quotes"
+    },
+    {
+        "id": 446,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 2,
+        "topic": "Comments"
+    },
+    {
+        "id": 447,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 2,
+        "topic": "Variables"
+    },
+    {
+        "id": 448,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 2,
+        "topic": "Assignments"
+    },
+    {
+        "id": 449,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 2,
+        "topic": "Standard Data Types"
+    },
+    {
+        "id": 450,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 3,
+        "topic": "Numbers"
+    },
+    {
+        "id": 451,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 3,
+        "topic": "Strings"
+    },
+    {
+        "id": 452,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 3,
+        "topic": "Lists"
+    },
+    {
+        "id": 453,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 3,
+        "topic": "Tuples"
+    },
+    {
+        "id": 454,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 3,
+        "topic": "Dictionary"
+    },
+    {
+        "id": 455,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 3,
+        "topic": "Type Conversion"
+    },
+    {
+        "id": 456,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 4,
+        "topic": "Operators"
+    },
+    {
+        "id": 457,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 4,
+        "topic": "Decision Making"
+    },
+    {
+        "id": 458,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 4,
+        "topic": "Loops"
+    },
+    {
+        "id": 459,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 4,
+        "topic": "Flowcharts"
+    },
+    {
+        "id": 460,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 4,
+        "topic": "if Statement"
+    },
+    {
+        "id": 461,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 4,
+        "topic": "Functions"
+    },
+    {
+        "id": 462,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 4,
+        "topic": "Arguments"
+    },
+    {
+        "id": 463,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 4,
+        "topic": "Anonymous Functions"
+    },
+    {
+        "id": 464,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 4,
+        "topic": "Applications and Extensions"
+    },
+    {
+        "id": 465,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 4,
+        "topic": "Data Analysis Packages"
+    },
+    {
+        "id": 466,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 5,
+        "topic": "File Operations"
+    },
+    {
+        "id": 467,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 5,
+        "topic": "Reading Files"
+    },
+    {
+        "id": 468,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 5,
+        "topic": "Writing Files"
+    },
+    {
+        "id": 469,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 5,
+        "topic": "readline()"
+    },
+    {
+        "id": 470,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 5,
+        "topic": "readlines()"
+    },
+    {
+        "id": 471,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 5,
+        "topic": "write()"
+    },
+    {
+        "id": 472,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 5,
+        "topic": "writelines()"
+    },
+    {
+        "id": 473,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 5,
+        "topic": "seek()"
+    },
+    {
+        "id": 474,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 5,
+        "topic": "Database Programming"
+    },
+    {
+        "id": 475,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 5,
+        "topic": "Database Connection"
+    },
+    {
+        "id": 476,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 5,
+        "topic": "Create"
+    },
+    {
+        "id": 477,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 5,
+        "topic": "Insert"
+    },
+    {
+        "id": 478,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 5,
+        "topic": "Update"
+    },
+    {
+        "id": 479,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 5,
+        "topic": "Delete"
+    },
+    {
+        "id": 480,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 5,
+        "topic": "Read"
+    },
+    {
+        "id": 481,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 5,
+        "topic": "Transactions"
+    },
+    {
+        "id": 482,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 5,
+        "topic": "Disconnect"
+    },
+    {
+        "id": 483,
+        "course_code": "CL05(P)",
+        "course_name": "Programming in Python Lab",
+        "module": 5,
+        "topic": "Exception Handling"
+    }
+]

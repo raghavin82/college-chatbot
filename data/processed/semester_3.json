@@ -1,0 +1,1038 @@
+{
+    "college": "IPS Academy, Institute of Engineering & Science",
+    "degree": "Bachelor of Technology (B.Tech.)",
+    "branch": "Computer Science & Engineering (AIML)",
+    "batch": 2025,
+    "semester": 3,
+    "courses": [
+    {
+        "course_code": "MA03",
+        "course_name": "Probability & Statistics",
+        "course_type": "BSC",
+        "credits": 3
+    },
+    {
+    "course_code": "CL01",
+    "course_name": "Computer Organization & Architecture",
+    "course_type": "PCC",
+    "credits": 3,
+
+    "teaching_scheme": {
+        "lecture": 2,
+        "tutorial": 1,
+        "practical": 0
+    },
+
+    "prerequisite": "Nil",
+
+    "course_objective": "Students to be familiarize the basic principles of computer architecture, Design and Multiprocessing, Types of data transfer, Concept of semiconductor memories which is useful for research work in field Computer System.",
+
+    "course_contents_hours": 45,
+
+    "modules": [
+        {
+            "module_number": 1,
+            "hours": 10,
+            "topics": [
+                "Basic Structure of Computer",
+                "Structure of Desktop Computers",
+                "CPU",
+                "General Register Organization",
+                "Memory Register",
+                "Instruction Register",
+                "Control Word",
+                "Stack Organization",
+                "Instruction Format",
+                "ALU",
+                "I/O System",
+                "Bus",
+                "CPU and Memory",
+                "Program Counter",
+                "Bus Structure",
+                "Register Transfer Language",
+                "Bus and Memory Transfer",
+                "Addressing Modes",
+                "Control Unit Organization",
+                "Basic Concept of Instruction",
+                "Instruction Types",
+                "Micro Instruction Formats",
+                "Fetch and Execution Cycle",
+                "Hardwired Control Unit",
+                "Micro-programmed Control Unit",
+                "Microprogram Sequencer",
+                "Control Memory",
+                "Sequencing and Execution of Micro Instruction"
+            ]
+        },
+        {
+            "module_number": 2,
+            "hours": 8,
+            "topics": [
+                "Computer Arithmetic",
+                "Addition and Subtraction",
+                "Two's Complement Representation",
+                "Signed Addition and Subtraction",
+                "Multiplication and Division",
+                "Booth's Algorithm",
+                "Division Operation",
+                "Floating Point Arithmetic Operation",
+                "Number Concept",
+                "One's Complement Representation",
+                "Two's Complement Representation",
+                "Addition and Subtraction using Two's Complement"
+            ]
+        },
+        {
+            "module_number": 3,
+            "hours": 9,
+            "topics": [
+                "I/O Organization",
+                "I/O Interface",
+                "PCI Bus",
+                "SCSI Bus",
+                "USB",
+                "Data Transfer",
+                "Serial Data Transfer",
+                "Parallel Data Transfer",
+                "Synchronous Data Transfer",
+                "Asynchronous Data Transfer",
+                "Direct Memory Access (DMA)",
+                "I/O Processor"
+            ]
+        },
+        {
+            "module_number": 4,
+            "hours": 10,
+            "topics": [
+                "Memory Organization",
+                "Main Memory",
+                "RAM",
+                "ROM",
+                "Secondary Memory",
+                "Magnetic Tape",
+                "Disk",
+                "Optical Storage",
+                "Cache Memory",
+                "Cache Structure and Design",
+                "Mapping Scheme",
+                "Replacement Algorithm",
+                "Improving Cache Performance",
+                "Virtual Memory",
+                "Memory Management Hardware"
+            ]
+        },
+        {
+            "module_number": 5,
+            "hours": 8,
+            "topics": [
+                "Multiprocessors",
+                "Characteristics of Multiprocessor",
+                "Inter-Processor Communication",
+                "Synchronization",
+                "Memory in Multiprocessor System",
+                "Concept of Pipelining",
+                "Vector Processing",
+                "Array Processing",
+                "RISC",
+                "CISC",
+                "Study of Multicore Processor",
+                "Intel",
+                "AMD"
+            ]
+        }
+    ]
+},
+    {
+    "course_code": "CL02",
+    "course_name": "Data Structure & Algorithm",
+    "course_type": "PCC",
+    "credits": 3,
+
+    "teaching_scheme": {
+        "lecture": 2,
+        "tutorial": 1,
+        "practical": 0
+    },
+
+    "prerequisite": "Nil",
+
+    "course_objective": "The objective of this course is to understand different types of data structures and algorithms used in program.",
+
+    "course_contents_hours": 46,
+
+    "modules": [
+        {
+            "module_number": 1,
+            "hours": 10,
+            "topics": [
+                "Review of C++ programming language",
+                "Introduction to Data Structure",
+                "Concepts of Data and Information",
+                "Classification of Data structures",
+                "Abstract Data Types",
+                "Memory representation",
+                "Time Complexity",
+                "Space Complexity",
+                "Data structures operations and its cost estimation",
+                "Basics of Asymptotic notation",
+                "Arrays",
+                "String representation and Operations",
+                "Linked List",
+                "Representation of linked list in memory",
+                "Different implementation of linked list",
+                "Circular linked list",
+                "Doubly linked list",
+                "Polynomial manipulation using linked list"
+            ]
+        },
+        {
+            "module_number": 2,
+            "hours": 10,
+            "topics": [
+                "Stacks as ADT",
+                "Different implementation of stack",
+                "Multiple stacks",
+                "Conversion of infix to postfix notation using stack",
+                "Evaluation of postfix expression",
+                "Recursion",
+                "Queues as ADT",
+                "Different implementation of queue",
+                "Circular queue",
+                "Dequeue",
+                "Priority Queue",
+                "Queue simulation",
+                "Application of queues"
+            ]
+        },
+        {
+            "module_number": 3,
+            "hours": 10,
+            "topics": [
+                "Tree definitions",
+                "Height",
+                "Depth",
+                "Order",
+                "Degree",
+                "Binary Search Tree",
+                "BST operations",
+                "Tree traversal",
+                "Search",
+                "AVL Tree",
+                "Heap",
+                "Applications of various types of tree",
+                "Comparison of various types of tree",
+                "Forest",
+                "Multi-way Tree",
+                "B Tree",
+                "B+ Tree",
+                "B* Tree",
+                "Red-black tree"
+            ]
+        },
+        {
+            "module_number": 4,
+            "hours": 8,
+            "topics": [
+                "Introduction to graphs",
+                "Directed graphs",
+                "Undirected graphs",
+                "Graph representation",
+                "Depth First Search (DFS)",
+                "Breadth First Search (BFS)",
+                "Minimum Spanning Tree (MST)",
+                "Kruskal's algorithm",
+                "Prim's algorithm",
+                "Dijkstra's shortest path algorithm",
+                "Comparison between different graph algorithms",
+                "Applications of graphs"
+            ]
+        },
+        {
+            "module_number": 5,
+            "hours": 8,
+            "topics": [
+                "Introduction to sorting",
+                "Classification of sorting methods",
+                "Bubble Sort",
+                "Quick Sort",
+                "Selection Sort",
+                "Heap Sort",
+                "Insertion Sort",
+                "Shell Sort",
+                "Merge Sort",
+                "Radix Sort",
+                "Comparison of various sorting techniques",
+                "Sequential Search",
+                "Binary Search",
+                "Comparison of search methods"
+            ]
+        }
+    ]
+},
+    {
+    "course_code": "CL03",
+    "course_name": "Object Oriented Programming & Methodology",
+    "course_type": "PCC",
+    "credits": 3,
+
+    "teaching_scheme": {
+        "lecture": 2,
+        "tutorial": 1,
+        "practical": 0
+    },
+
+    "prerequisite": "Programming for Problem Solving",
+
+    "course_objective": "The course is designed to provide complete knowledge of Object-Oriented Programming through and to enhance the programming skills of the students by giving practical assignments to be done in labs. Its main objective is to teach the basic concepts and techniques which form the object oriented programming paradigm.",
+
+    "course_contents_hours": 42,
+
+    "modules": [
+        {
+            "module_number": 1,
+            "hours": 8,
+            "topics": [
+                "Introduction to Object Oriented Programming",
+                "Comparison with Procedural Programming",
+                "Features of Object-oriented paradigm",
+                "Merits and demerits of OO methodology",
+                "Introduction to Java Development Kit (JDK)",
+                "Java Virtual Machine (JVM)",
+                "Linker and Loader",
+                "Data Encapsulation",
+                "Concept of Classes and Objects",
+                "State, Behavior and Identity of an object"
+            ]
+        },
+        {
+            "module_number": 2,
+            "hours": 8,
+            "topics": [
+                "Data Abstraction",
+                "Message Passing",
+                "Methods",
+                "Calling of constructors",
+                "Decision making constructs",
+                "Control loops",
+                "Keyword: this",
+                "Keyword: static",
+                "Access modifiers",
+                "Arrays within a class",
+                "String Class"
+            ]
+        },
+        {
+            "module_number": 3,
+            "hours": 10,
+            "topics": [
+                "Relationship between classes",
+                "Generalization",
+                "Inheritance",
+                "Types of Inheritance",
+                "Ambiguity in multiple inheritances",
+                "Concept of interfaces",
+                "Specialization",
+                "Association",
+                "Aggregation",
+                "Composition",
+                "Static Binding",
+                "Dynamic Binding",
+                "Polymorphism",
+                "Method Overriding",
+                "Method Overloading",
+                "Keyword: super",
+                "Keyword: abstract",
+                "Keyword: final"
+            ]
+        },
+        {
+            "module_number": 4,
+            "hours": 8,
+            "topics": [
+                "Concept of Packages",
+                "Need of package",
+                "Basic idea of exception handling",
+                "Stack-based execution",
+                "Exception propagation",
+                "Exception types",
+                "Try",
+                "Catch",
+                "Finally",
+                "Throw statement",
+                "Assertions"
+            ]
+        },
+        {
+            "module_number": 5,
+            "hours": 8,
+            "topics": [
+                "Overview of Simple threads",
+                "Basic idea of Multithreaded Programming",
+                "Thread synchronization",
+                "Locks",
+                "Synchronized methods",
+                "Synchronized block",
+                "Thread scheduling",
+                "Producer-consumer relationship",
+                "Daemon thread",
+                "Case Study: Chabot implementation"
+            ]
+        }
+    ]
+},
+    {
+    "course_code": "CL04",
+    "course_name": "Introduction to Artificial Intelligence",
+    "course_type": "PCC",
+    "credits": 2,
+
+    "teaching_scheme": {
+        "lecture": 2,
+        "tutorial": 0,
+        "practical": 0
+    },
+
+    "prerequisite": "Preliminary knowledge of Elementary Statistics.",
+
+    "course_objective": "The course is designed to demonstrate fundamental understanding of Artificial Intelligence (AI) and its basic principles. Course will cover foundational concepts of AI that require problem solving, inference, perception, knowledge representation, and learning. Students will be able understand the application of Artificial Intelligence techniques for problem solving.",
+
+    "course_contents_hours": 43,
+
+    "modules": [
+        {
+            "module_number": 1,
+            "hours": 8,
+            "topics": [
+                "Meaning and definition of Artificial Intelligence",
+                "Physical Symbol System Hypothesis",
+                "Production systems",
+                "Characteristics of production systems",
+                "Breadth First Search",
+                "Depth First Search",
+                "Heuristic search techniques",
+                "Hill Climbing",
+                "Iterative Deepening DFS",
+                "Bidirectional Search",
+                "Analysis of search methods",
+                "A* Algorithm",
+                "Analysis of A* Algorithm"
+            ]
+        },
+        {
+            "module_number": 2,
+            "hours": 8,
+            "topics": [
+                "Introduction to Genetic Algorithms",
+                "Knowledge Representation",
+                "Problems in representing knowledge",
+                "Knowledge representation using propositional logic",
+                "Knowledge representation using predicate logic",
+                "Logical consequences",
+                "Syntax and semantics of an expression",
+                "Semantic Tableau",
+                "Forward reasoning",
+                "Backward reasoning",
+                "Proof methods",
+                "Substitution and unification",
+                "Conversion to clausal form",
+                "Normal forms",
+                "Resolution",
+                "Refutation",
+                "Deduction",
+                "Theorem proving",
+                "Inferencing",
+                "Monotonic reasoning",
+                "Nonmonotonic reasoning"
+            ]
+        },
+        {
+            "module_number": 3,
+            "hours": 9,
+            "topics": [
+                "Introduction to Prolog",
+                "Network-based representation and reasoning",
+                "Semantic networks",
+                "Conceptual Graphs",
+                "Frames",
+                "Description Logic (DL)",
+                "Concept language",
+                "Reasoning using Description Logic",
+                "Conceptual Dependencies (CD)",
+                "Scripts",
+                "Reasoning using Conceptual Dependencies"
+            ]
+        },
+        {
+            "module_number": 4,
+            "hours": 8,
+            "topics": [
+                "Introduction to Natural Language Processing",
+                "Adversarial Search",
+                "Game Theory",
+                "Classification of games",
+                "Game playing strategies",
+                "Prisoner's Dilemma",
+                "Game playing techniques",
+                "Minimax procedure",
+                "Alpha-beta cut-offs",
+                "Complexity of alpha-beta search",
+                "Automated planning",
+                "Classical planning problem",
+                "Forward planning",
+                "Partial order planning",
+                "Planning with proposal logic",
+                "Hierarchical task planning",
+                "Multi-agent planning"
+            ]
+        },
+        {
+            "module_number": 5,
+            "hours": 10,
+            "topics": [
+                "Reasoning in uncertain environments",
+                "Fuzzy logic",
+                "Fuzzy composition relation",
+                "Operations on fuzzy sets",
+                "Probabilistic reasoning",
+                "Bayes theorem",
+                "Construction of Bayesian networks",
+                "Belief propagation",
+                "Markov processes",
+                "Hidden Markov models"
+            ]
+        }
+    ]
+},
+    {
+    "course_code": "HS04",
+    "course_name": "Entrepreneurship and Principles of Management",
+    "type": "Theory",
+    "credits": 1,
+    "prerequisite": "Nil",
+    "syllabus_status": "Detailed syllabus not available from trusted source"
+},
+    {
+    "course_code": "CL01(P)",
+    "course_name": "Computer System Organization Lab",
+    "course_type": "LC",
+    "credits": 1,
+
+    "teaching_scheme": {
+        "lecture": 0,
+        "tutorial": 0,
+        "practical": 2
+    },
+
+    "prerequisite": "Nil",
+
+    "course_objective": "Students to be familiarize the basic principles of computer architecture, Design and Multiprocessing, Types of data transfer, Concept of semiconductor memories which is useful for research work in field Computer System.",
+
+    "modules": [
+        {
+            "module_number": 1,
+            "topics": [
+                "Introduction to Desktop Computers",
+                "Introduction to 8085 microprocessor",
+                "8085 Instruction set",
+                "Flags",
+                "Logic Gates",
+                "Combinational circuits",
+                "Multiplexer",
+                "Demultiplexer"
+            ]
+        },
+        {
+            "module_number": 2,
+            "topics": [
+                "Introduction to Binary number systems",
+                "1's Complement",
+                "2's Complement",
+                "Arithmetic Operations",
+                "Half adder",
+                "Half subtractor",
+                "Full Adder",
+                "Full Subtractor"
+            ]
+        },
+        {
+            "module_number": 3,
+            "topics": [
+                "Introduction to Assembly Language",
+                "Programming Arithmetic and Logic Operations",
+                "Shift Operations",
+                "Program Loops"
+            ]
+        },
+        {
+            "module_number": 4,
+            "topics": [
+                "Memory Hierarchy",
+                "Main Memory",
+                "Types of Memory",
+                "Memory Allocation Methods",
+                "Virtual Memory",
+                "Page Replacement Algorithms"
+            ]
+        },
+        {
+            "module_number": 5,
+            "topics": [
+                "Characteristics of Multiprocessor",
+                "RISC",
+                "CISC",
+                "Study of Multicore Processor – Intel",
+                "Study of Multicore Processor – AMD"
+            ]
+        }
+    ],
+
+    "practicals": [
+        "Case study of Desktop Computers",
+        "Study of Multiplexer and Demultiplexer",
+        "Write Program to demonstrate Flags in microprocessor 8085",
+        "Study of Half Adder and Half Subtractor",
+        "Study of Full Adder and Full Subtractor",
+        "Write a program to add the contents of memory locations 4000H and 4001H and place the result in memory location 4002H",
+        "Write a program to multiply two 8-bit numbers stored in memory locations 2200H and 2201H by repetitive addition and store the result in memory locations 2300H and 2301H",
+        "Program for simulate memory allocation strategies (First fit, Best fit, Worst fit)",
+        "Programs for page replacement algorithms",
+        "Case study of RISC And CISC"
+    ],
+
+    "course_outcomes": [
+        "Explain the basic structure & components of the computer system, 8085 Micro Processor",
+        "Demonstrate the concepts of computer arithmetic",
+        "Demonstrate the concepts of Assembly Language",
+        "Illustrate memory organization and memory management techniques",
+        "State the core concepts of multiprocessor"
+    ]
+},
+    {
+    "course_code": "CL02(P)",
+    "course_name": "Data Structure & Algorithm Lab",
+    "course_type": "LC",
+    "credits": 1,
+
+    "teaching_scheme": {
+        "lecture": 0,
+        "tutorial": 0,
+        "practical": 2
+    },
+
+    "prerequisite": "Nil",
+
+    "course_objective": "The objective of this course is to understand different types of data structures and algorithms used in program.",
+
+    "modules": [
+        {
+            "module_number": 1,
+            "topics": [
+                "Arrays",
+                "String",
+                "Representation and Operations",
+                "Linked List",
+                "Representation of linked list in memory",
+                "Different implementation of linked list",
+                "Circular linked list",
+                "Doubly linked list"
+            ]
+        },
+        {
+            "module_number": 2,
+            "topics": [
+                "Stacks as ADT",
+                "Different implementation of stack",
+                "Multiple stacks",
+                "Conversion of infix to postfix notation using stack",
+                "Evaluation of postfix expression",
+                "Recursion",
+                "Example of recursion"
+            ]
+        },
+        {
+            "module_number": 3,
+            "topics": [
+                "Queues as ADT",
+                "Different implementation of queue",
+                "Circular queue",
+                "Dequeue",
+                "Priority Queue",
+                "Queue simulation",
+                "Application of queues"
+            ]
+        },
+        {
+            "module_number": 4,
+            "topics": [
+                "Tree definitions",
+                "Height",
+                "Depth",
+                "Order",
+                "Degree",
+                "Binary Search Tree",
+                "BST Operations",
+                "Tree Traversal",
+                "Search",
+                "Graphs",
+                "Directed graphs",
+                "Undirected graphs",
+                "Graph representation",
+                "Depth First Search (DFS)",
+                "Breadth First Search (BFS)"
+            ]
+        },
+        {
+            "module_number": 5,
+            "topics": [
+                "Introduction to sorting",
+                "Classification of sorting methods",
+                "Bubble Sort",
+                "Quick Sort",
+                "Selection Sort",
+                "Heap Sort",
+                "Insertion Sort",
+                "Sequential Search",
+                "Binary Search",
+                "Comparison of search methods"
+            ]
+        }
+    ],
+
+    "practicals": [
+        "To perform insertion and deletion operations on array",
+        "To perform multiplication operation on matrix",
+        "To implement single linked list",
+        "To implement doubly linked list",
+        "To calculate factorial of number using recursion",
+        "To demonstrate static implementation of stack",
+        "To demonstrate dynamic implementation of stack",
+        "To demonstrate static implementation of Linear queue",
+        "To demonstrate dynamic implementation of Linear queue",
+        "To implement circular queue",
+        "To implement binary search tree",
+        "To perform BFS and DFS operations on graph",
+        "To perform binary search operation",
+        "To perform sorting operation using bubble sort",
+        "To perform sorting operation using insertion sort"
+    ],
+
+    "course_outcomes": [
+        "Understand basic data structures such as arrays, linked lists",
+        "Introduce the concept of data structures through ADT including stack",
+        "Understand the basic operations of Queues",
+        "Understand the basic concept of Tree and Graph and their operations",
+        "Demonstrate and implement searching sorting algorithms"
+    ]
+},
+    {
+    "course_code": "CL03(P)",
+    "course_name": "Object Oriented Programming & Methodology Lab",
+    "course_type": "LC",
+    "credits": 1,
+
+    "teaching_scheme": {
+        "lecture": 0,
+        "tutorial": 0,
+        "practical": 2
+    },
+
+    "prerequisite": "Programming for Problem Solving",
+
+    "course_objective": "This course designed to provide knowledge of Object-Oriented Programming. It introduces object-oriented programming using the Java programming language. The course is designed to enhance the programming skills of the students by giving practical assignments to be done in labs. Its main objective is to teach the basic concepts and techniques of object-oriented programming paradigm. Students will learn how to program in Java and use some of its most important APIs.",
+
+    "modules": [
+        {
+            "module_number": 1,
+            "topics": [
+                "Introduction to Object Oriented Programming",
+                "Basics of Java programming",
+                "Data types",
+                "Variables",
+                "Operators",
+                "Control structures",
+                "Looping",
+                "Introduction to Java Development Kit (JDK)",
+                "Java Virtual Machine (JVM)",
+                "Linker and Loader",
+                "Data Encapsulation",
+                "Concept of Classes and Objects"
+            ]
+        },
+        {
+            "module_number": 2,
+            "topics": [
+                "Data Abstraction",
+                "Message Passing",
+                "Methods",
+                "Constructors",
+                "Keywords: this and static",
+                "Access modifiers",
+                "Arrays within a class",
+                "String Class"
+            ]
+        },
+        {
+            "module_number": 3,
+            "topics": [
+                "Relationship between classes",
+                "Inheritance",
+                "Types of Inheritance",
+                "Ambiguity in multiple inheritances",
+                "Concept of interfaces",
+                "Association",
+                "Aggregation",
+                "Composition",
+                "Static and Dynamic Binding",
+                "Polymorphism",
+                "Method Overriding",
+                "Method Overloading",
+                "Keywords: super, abstract, final"
+            ]
+        },
+        {
+            "module_number": 4,
+            "topics": [
+                "Concept of Packages",
+                "Need of package",
+                "Basic idea of exception handling",
+                "Exception types",
+                "Try",
+                "Catch",
+                "Finally",
+                "Throw statement",
+                "Assertions"
+            ]
+        },
+        {
+            "module_number": 5,
+            "topics": [
+                "Overview of Simple threads",
+                "Thread life cycle and methods",
+                "Runnable interface",
+                "Thread synchronization",
+                "Basic idea of Multithreaded Programming"
+            ]
+        }
+    ],
+
+    "practicals": [
+        "Write a program to show Concept of CLASS in JAVA",
+        "Write a program to show Concept of Constructor in JAVA",
+        "Write a program to show Concept of Arrays in JAVA",
+        "Write a Program to show Inheritance",
+        "Write a program to show Polymorphism (method overloading and overriding)",
+        "Write a program to show Interfacing between two classes",
+        "Write a program to show Exception handling",
+        "Write a program to Add a Class to a Package",
+        "Write a program to show Life Cycle of a Thread",
+        "Write a program to demonstrate multithreading using Java"
+    ],
+
+    "course_outcomes": [
+        "Understand object-oriented programming principles and apply them in solving Problems",
+        "Develop skill in data abstraction and message passing",
+        "Understand fundamentals of relationship amongst objects",
+        "Learn about the need of exception and errors",
+        "Understand the concept of threads"
+    ]
+},
+    {
+    "course_code": "CL04(P)",
+    "course_name": "Artificial Intelligence Lab",
+    "type": "Lab",
+    "credits": 1,
+    "prerequisite": "Nil",
+    "modules": [
+        {
+            "module": 1,
+            "topics": [
+                "Introduction to Prolog",
+                "Applications of Prolog",
+                "Expert Systems",
+                "Applications of Artificial Intelligence"
+            ]
+        },
+        {
+            "module": 2,
+            "topics": [
+                "Syntax and Meaning",
+                "Data Objects",
+                "Matching",
+                "Declarative and Procedural Meaning",
+                "AI Problem Solving",
+                "Monkey-Banana Problem"
+            ]
+        },
+        {
+            "module": 3,
+            "topics": [
+                "Lists in Prolog",
+                "Operations on Lists"
+            ]
+        },
+        {
+            "module": 4,
+            "topics": [
+                "Operators and Arithmetic",
+                "Structures",
+                "Database Retrieval",
+                "Data Abstraction",
+                "Nondeterministic Automaton",
+                "Travel Planning"
+            ]
+        },
+        {
+            "module": 5,
+            "topics": [
+                "Complex Problems",
+                "Eight Queens Problem",
+                "Backtracking Control"
+            ]
+        }
+    ],
+    "practicals": [
+        "Installation of GNU Prolog",
+        "Facts, Rules and Queries",
+        "Family Tree",
+        "Monkey-Banana Problem",
+        "Medical Diagnosis Expert System",
+        "Recursion using Factorial and Fibonacci",
+        "Five Queens Problem",
+        "Water Jug Problem",
+        "Traveling Salesman Problem",
+        "MYCIN / AI Shell Case Study"
+    ],
+    "course_outcomes": [
+        "Understand expert systems and applications of Artificial Intelligence",
+        "Solve basic Artificial Intelligence problems",
+        "Understand the concept of Artificial Intelligence",
+        "Apply Artificial Intelligence techniques to problems",
+        "Select appropriate Artificial Intelligence techniques"
+    ]
+},
+    {
+    "course_code": "CL05(P)",
+    "course_name": "Programming in Python Lab",
+    "type": "Lab",
+    "credits": 1,
+    "prerequisite": "Nil",
+    "objective": "To develop basic understanding of Python programming and problem-solving skills.",
+    "modules": [
+        {
+            "module": 1,
+            "topics": [
+                "History of Python",
+                "Features of Python",
+                "Python Environment Setup",
+                "Installing Python",
+                "Python IDE"
+            ]
+        },
+        {
+            "module": 2,
+            "topics": [
+                "Python Syntax",
+                "Identifiers",
+                "Reserved Words",
+                "Indentation",
+                "Multiline Statements",
+                "Quotes",
+                "Comments",
+                "Variables",
+                "Assignments",
+                "Standard Data Types"
+            ]
+        },
+        {
+            "module": 3,
+            "topics": [
+                "Numbers",
+                "Strings",
+                "Lists",
+                "Tuples",
+                "Dictionary",
+                "Type Conversion"
+            ]
+        },
+        {
+            "module": 4,
+            "topics": [
+                "Operators",
+                "Decision Making",
+                "Loops",
+                "Flowcharts",
+                "if Statement",
+                "Functions",
+                "Arguments",
+                "Anonymous Functions",
+                "Applications and Extensions",
+                "Data Analysis Packages"
+            ]
+        },
+        {
+            "module": 5,
+            "topics": [
+                "File Operations",
+                "Reading Files",
+                "Writing Files",
+                "readline()",
+                "readlines()",
+                "write()",
+                "writelines()",
+                "seek()",
+                "Database Programming",
+                "Database Connection",
+                "Create",
+                "Insert",
+                "Update",
+                "Delete",
+                "Read",
+                "Transactions",
+                "Disconnect",
+                "Exception Handling"
+            ]
+        }
+    ],
+    "practicals": [
+        "Python environment setup and basic programs",
+        "Programs using variables and standard data types",
+        "Programs using numbers, strings, lists, tuples and dictionaries",
+        "Programs using operators and decision-making statements",
+        "Programs using loops",
+        "Programs using functions and arguments",
+        "Programs using anonymous functions",
+        "File handling programs",
+        "Database programming",
+        "Exception handling"
+    ],
+    "course_outcomes": [
+        "Understand the basics of Python programming",
+        "Develop problem-solving and programming skills using Python",
+        "Apply Python data types and control structures",
+        "Use functions, files and database programming in Python",
+        "Handle exceptions in Python programs"
+    ]
+},
+    {
+    "course_code": "CL01",
+    "course_name": "Seminar",
+    "type": "Project",
+    "credits": 1,
+    "syllabus_status": "No detailed syllabus content provided"
+},
+   {
+    "course_code": "MLC01",
+    "course_name": "Professional Laws, Ethics, Gender, Human Values and Harmony",
+    "type": "Audit",
+    "credits": "Audit",
+    "syllabus_status": "Detailed syllabus content not included in the Semester III source"
+},
+    {
+    "course_code": "LLC02",
+    "course_name": "Liberal Learning Course-II (NCC/NSO/NCA)",
+    "type": "Audit",
+    "credits": "Added in fourth semester",
+    "syllabus_status": "No Semester III detailed syllabus content"
+}
+]
+}

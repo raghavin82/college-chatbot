@@ -1,0 +1,769 @@
+
+---PAGE 1---
+IPS Academy, Institute of Engineering & Science 
+(A UGC Autonomous Institute, Affiliated to RGPV, Bhopal) 
+Bachelor of Technology (B.Tech.)  
+Department of Computer Science & Engineering (AIML) 
+ 
+Semester VIII 
+             
+Semester-III   
+Sr. 
+No. 
+Course Type Course Code Course Name 
+Teaching 
+Scheme Credits 
+L T P 
+1.  BSC MA03 Probability & Statistics 2 1 - 3 
+2.  PCC CL01 Computer Organization& 
+Architecture 2 1 - 3 
+3.  PCC CL02 Data Structure & Algorithm 2 1 - 3 
+4.  PCC CL03 Object Oriented Programming 
+& Methodology 2 1 - 3 
+5.  PCC CL04 Introduction to Artificial 
+Intelligence 2 - - 2 
+6.  HSMC HS04 Entrepreneurship and Principles of 
+Management 1 - - 1 
+7.  LC CL01 (P) Computer Organization & 
+Architecture Lab - - 2 1 
+8. LC CL02 (P) Data Structure & Algorithm Lab - - 2 1 
+9. LC CL03 (P) Object Oriented Programming 
+& Methodology Lab - - 2 1 
+10. LC CL04 (P) Artificial Intelligence Lab - - 2 1 
+11. LC CL05(P) Programming in Python Lab - - 2 1 
+12 PROJ CL01 Seminar - - 2 1 
+13. MLC MLC01 Professional Laws, Ethics, Gender, 
+Human Values and Harmony 1 - - Audit 
+14. LLC LLC02 Liberal Learning Course –II 
+(NCC/NSO/NCA)  
+Credit to be added in 
+fourth Semester. 
+Total Academic Credits 21 
+ 
+• Liberal Learning Course-III, LLC02 (Any One Course from NCC/NSO/NCA) 
+➢ Note: The pool of choices will be the same as in LLC01. 
+  
+---PAGE 2---
+IPS Academy, Institute of Engineering & Science 
+(A UGC Autonomous Institute, Affiliated to RGPV, Bhopal) 
+Bachelor of Technology (B.Tech.)  
+Department of Computer Science & Engineering (AIML) 
+ 
+Semester VIII 
+             
+  
+     PCC-CL01  Computer Organization & 
+Architecture 
+ 
+2L:1T:0P (4hrs.) 
+  
+Credits:03 
+ 
+Pre requisite: Nil 
+Course Objective: Students to be familiarize the basic principles of computer architecture, Design 
+and Multiprocessing, Types of data transfer, Concept of semiconductor memories which is useful 
+for research work in field Computer System. 
+Course Contents: (45 hrs.) 
+Module 1:  (10hrs.) 
+Basic Structure of Computer: Structure of Desktop Computers, CPU: General Register 
+Organization-Memory Register, Instruction Register, Control Word, Stack Organization, 
+Instruction Format, ALU, I/O System, bus, CPU and Memory Program Counter, Bus Structure, 
+Register Transfer Language -Bus and Memory Transfer, addressing modes. Control Unit 
+Organization: Basic Concept of Instruction, Instruction Types, Micro Instruction Formats, Fetch 
+and Execution cycle, Hardwired control unit, Micro - programmed Control unit  micro program 
+sequencer Control Memory, Sequencing and Execution of Micro Instruction. 
+Module 2:  (8hrs.) 
+Computer Arithmetic: Addition and Subtraction, Tools Compliment Representation, Signed 
+Addition and Subtraction, Multiplication and division, Booths Algorithm, Division Operation, 
+Floating Point Arithmetic Operation, Number concept 1's and 2's complement representation, 
+addition and subtraction using 2's complement. 
+Module 3:  (9hrs.) 
+I/O Organization: I/O Interface –PCI Bus, SCSI Bus, USB, Data Transfer: Serial, Parallel, 
+Synchronous, Asynchronous Modes of Data Transfer, Direct Memory Access (DMA), I/O 
+Processor. 
+Module 4:  (10 hrs.) 
+Memory Organization: Main memory -RAM, ROM, SecondaryMemory  –Magnetic Tape, Disk, 
+Optical Storage, Cache Memory: Cache Structure and Design, Mapping Scheme, Replacement 
+Algorithm, Improving Cache Performance, Virtual Memory, memory management hardware. 
+Module 5:  (08hrs.) 
+Multiprocessors: Characteristics of Multiprocessor, Inter -Processor Communication and 
+Synchronization. Memory in Multiprocessor System, Concept of Pipelining, Vector Processing, 
+ArrayProcessing, RISC And CISC, StudyofMulticore Processor –Intel, AMD. 
+ 
+---PAGE 3---
+IPS Academy, Institute of Engineering & Science 
+(A UGC Autonomous Institute, Affiliated to RGPV, Bhopal) 
+Bachelor of Technology (B.Tech.)  
+Department of Computer Science & Engineering (AIML) 
+ 
+Semester VIII 
+             
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Course Outcomes: 
+After completion of the course the student will be able to: 
+1. Explain the basic structure & components of the computer system, Micro programmed       
+Control Unit. 
+2. Demonstrate the concepts of computer arithmetic. 
+3. Explain the input output organization of the computer system. 
+4. Illustrate memory organization and memory management techniques. 
+5. State the core concepts of multiprocessor and pipelining. 
+List of Text / Reference Books: 
+1. Morris Mano, “Computer System Architecture”3rdEd., PHI 
+2. Alan Clements: “Computer Organization and Architecture”, Cengage Learning. 
+3. Subrata Ghosal: “Computer Architecture and Organization”, Pearson Education. 
+4. William Stalling, “Computer Organization and Architecture”10thEd., Pearson 
+Education. 
+5. M. Usha, T.S. Shrikant: “Computer System Architecture & Organization”, Willey India. 
+6. Chaudhuri, P. Pal: “Computer Organization and Design”,3rdEd. PHI. 
+  
+---PAGE 4---
+IPS Academy, Institute of Engineering & Science 
+(A UGC Autonomous Institute, Affiliated to RGPV, Bhopal) 
+Bachelor of Technology (B.Tech.)  
+Department of Computer Science & Engineering (AIML) 
+ 
+Semester VIII 
+             
+PCC-CL02 Data Structure & 
+Algorithm 2L: 1T:0P (4hrs.) Credits:03 
+ 
+Prerequisite: Nil 
+Course Objective:  
+The objective of this course is to understand different types of data structures and algorithms used 
+in program. 
+Course Contents: (46 hrs.) 
+Module 1:  (10hrs.) 
+Review of C++ programming language. Introduction to Data Structure: Concepts of Data and 
+Information, Classification of Data structures, Abstract Data Types, Implementation aspects: 
+Memory representation. Analysis of algorithm: Time Complexity and Space Complexity, Data 
+structures operations and its cost estimation, Basic of Asymptotic notation. Introduction to linear 
+data structures- Arrays, String, representation & Operations, Linked List: Representation of linked 
+list in memory, different implementation of linked list. Circular linked list, doubly linked list, etc. 
+Application of linked list: polynomial manipulation using linked list, etc.  
+Module 2:  (10hrs.) 
+Stacks: Stacks as ADT, Different implementation of stack, multiple stacks. Application of Stack: 
+Conversion of infix to postfix notation using stack, evaluation of postfix expression, Recursion. 
+Queues: Queues as ADT, Different implementation of queue, Circular queue, Concept of Dequeue 
+and Priority Queue, Queue simulation, Application of queues. 
+Module 3:  (10hrs.) 
+Tree: Definitions - Height, depth, order, degree etc. Binary Search Tree - Operations, Traversal, 
+Search, A VL Tree, Heap, Applications and comparison of various types of tree; Introduction to 
+forest, multi-way Tree, BTree, B+ tree, B*tree and red-black tree. 
+Module 4:  (08hrs.) 
+Graphs: Introduction, Classification of graph: Directed and Undirected graphs, etc, Representation, 
+Graph Traversal: Depth First Search (DFS), Breadth First Search (BFS), Graph algorithm: 
+Minimum Spanning Tree (MST) - Kruskal, Prim’s algorithms. Dijkstra’s shortest path algorithm; 
+Comparison between different graph algorithms. Application of graphs. 
+Module 5:  (08hrs.) 
+Sorting: Introduction, Classification of sorting method, Sort methods like: Bubble Sort, Quick sort. 
+Selection sort, Heap sort, Insertion sort, Shell sort, Merge sort and Radix sort; comparison of 
+various sorting techniques. Searching: Basic Search Techniques: Sequential search, Binary search, 
+Comparison of search methods. 
+ 
+---PAGE 5---
+IPS Academy, Institute of Engineering & Science 
+(A UGC Autonomous Institute, Affiliated to RGPV, Bhopal) 
+Bachelor of Technology (B.Tech.)  
+Department of Computer Science & Engineering (AIML) 
+ 
+Semester VIII 
+             
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+Course Outcomes: 
+After completion of the course the student will be able to: 
+1. Understand basic data structures such as arrays, linked lists, stacks and queues. 
+2. Introduce the concept of data structures through ADT including List, Stack, Queues. 
+3. Understand the basic operations of trees and its types. 
+4. Understand the basic concept of graph and its operations. 
+5. Demonstrate and implement searching sorting algorithms. 
+List of Text / Reference Books: 
+1. Ellis Horowitz, Sartaj Sahni, “Fundamentals of Data Structures” Computer Science 
+Press. 
+2. Mark Allen Weiss “Algorithms, Data Structures, and Problem Solving with C++ ”, 
+Pearson Education (US) 1996. 
+3. R.G. Dromey “How to Solve it by Computer”,2nd Impression by, PHI. 
+4. A M Tanenbaum, Y Langsam & M  J Augustein, “Data structure using C and C++”, 
+2ndEd., 2006, Prentice Hall India. 
+5. Robert Kruse, Bruse Leung, “Data structures & Program Design in C”, 2nd Ed., 1997, 
+Pearson Education. 
+6. Aho, Hopcroft, Ullman, “Data Structures and Algorithms”, Pearson Education. 
+7. Richard, Gilberg Behrouz, Forouzan, “Data structure –A Pseudo code Approach with 
+C”, 2ndEd., Thomson press. 
+---PAGE 6---
+IPS Academy, Institute of Engineering & Science 
+(A UGC Autonomous Institute, Affiliated to RGPV, Bhopal) 
+Bachelor of Technology (B.Tech.)  
+Department of Computer Science & Engineering (AIML) 
+ 
+Semester VIII 
+             
+PCC-CL03 Object Oriented Programming 
+& Methodology 2L: 1T:0P (4hrs.) Credits:03 
+ 
+Prerequisite: Programming for Problem Solving 
+Course Objective:  
+The course is designed to provide complete knowledge of Object -Oriented Programming through 
+and to enhance the programming skills of the students by giving practical assignments to be done in 
+labs. Its main objective is to teach the basic concepts and techniques which form the object  oriented 
+programming paradigm. 
+Course Contents: (42 hrs.) 
+Module 1:  (08hrs.) 
+Introduction to Object Oriented Programming, Comparison with Procedural Programming, 
+features of Object-oriented paradigm, merits and demerits of OO methodology; Introduction to 
+Java Development Kit (JDK) & Java virtual machine (JVM); Linker &Loader; Data 
+Encapsulation: Concept of Classes & Objects; State, Behavior & Identity of an object.  
+Module 2:  (08hrs.) 
+Data Abstraction and Message Passing: Methods, calling of constructors, Decision making 
+constructs, Control loops, Keywords: this, static; Access modifiers, Arrays within a class, String 
+Class. 
+Module 3:  (10hrs.) 
+Relationship between classes: Generalization - Inheritance, Types of Inheritance, Ambiguity in 
+multiple inheritances, Concept of interfaces; Specialization - Association, Aggregation and 
+Composition; Static and Dynamic Binding: Polymorphism, Method Overriding & Overloading; 
+Keywords: super, abstract, final. 
+ 
+Module 4:  (08hrs.) 
+Concept of Packages, Need of package; Basic idea of exception handling, stack-based execution 
+and exception propagation, Exception types: Exception Handling Try, Catch, Finally, Throw 
+statement, Assertions. 
+Module 5:  (08hrs.) 
+Overview of Simple threads, Basic idea of Multithreaded Programming, Thread synchronization: 
+Locks, synchronized methods, synchronized block, thread scheduling, Producer -consumer 
+relationship, Daemon thread, Case Study: Chabot implementation etc. 
+ 
+  
+ 
+---PAGE 7---
+IPS Academy, Institute of Engineering & Science 
+(A UGC Autonomous Institute, Affiliated to RGPV, Bhopal) 
+Bachelor of Technology (B.Tech.)  
+Department of Computer Science & Engineering (AIML) 
+ 
+Semester VIII 
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Course Outcomes: 
+After completion of the course the student will be able to 
+1. Understand object -oriented programming concepts, core JAVA, and apply them in 
+solving Problems. 
+2.   Develop skill in data abstraction and message passing. . 
+3.   Understand fundamentals of relationship amongst objects. 
+4.   Learn about the need of exception and errors. 
+5.   Develop ability to write a computer program to solve specified problems. 
+List of Text / Reference Books: 
+1. G. Booch, “Object Oriented Analysis & Design”, Pearson. 
+2. Barbara Liskov, “Program Development in Java”, Addison-Wesley, 2001. 
+3. James Martin, “Principles of Object-Oriented Analysis and Design”, Prentice 
+Hall/PTR. 
+4. Peter Coad and Edward Yourdon, “Object Oriented Design”, Prentice Hall/PTR. 
+5. Herbert Schildt, “Java2: The Complete Reference”, 7thEdition, McGraw-Hill. 
+---PAGE 8---
+IPS Academy, Institute of Engineering & Science 
+(A UGC Autonomous Institute, Affiliated to RGPV, Bhopal) 
+Bachelor of Technology (B.Tech.)  
+Department of Computer Science & Engineering (AIML) 
+ 
+Semester VIII 
+             
+ 
+PCC-CL04 Introduction to Artificial 
+Intelligence 2L:0T:0P (2hrs.) Credits:02 
+ 
+Prerequisite: Preliminary knowledge of Elementary Statistics. 
+Course Objective: 
+ The course is designed to demonstrate fundamental understanding of Artificial Intelligence (AI) 
+and its basic principles. Course will cover foundational concepts of AI that require problem solving, 
+inference, perception, knowledge representation, and learning. Students will be able understand the 
+application of Artificial Intelligence techniques for problem solving. 
+Course Contents: (43 hrs.) 
+Module 1:  (08hrs.) 
+Introduction: Meaning and definition of artificial intelligence, Physical Symbol System 
+Hypothesis, production systems, Characteristics of production systems; Breadth first search and 
+depth first search techniques. Heuristic search Techniques: Hill Climbing, Iterative deepening 
+DFS, bidirectional search. Analysis of search methods. A* algorithm, and their analysis. 
+Module 2:  (08hrs.) 
+Introduction to Genetic Algorithms: Knowledge Representation, Problems in representing 
+knowledge, knowledge representation using propositional and predicate logic, logical 
+consequences, syntax and semantics of an expression, semantic Tableau. Forward and backward 
+reasoning. Proof methods, substitution and unification, conversion to clausal form, normal forms, 
+resolution, refutation, deduction, theorem proving, inferencing, monotonic and nonmonotonic 
+reasoning. 
+Module 3:  (09hrs.) 
+Introduction to prolog: Network-based representation and reasoning, Semantic networks, 
+Conceptual Graphs, frames. Description logic (DL), concept language, reasoning using DL. 
+Conceptual dependencies (CD), scripts, reasoning using CD.  
+Module 4:  (08hrs.) 
+Introduction to natural language processing: Adversarial search and Game theory, classification of 
+games, game playing strategies, prisoner's Dilemma. Game playing techniques, mini max 
+procedure, alpha -beta cut - offs. Complexity of alpha -beta search. Automated planning, classical 
+planning problem, forward planning, partial order planning, planning with proposal logic, 
+hierarchical task planning, multi agent planning. 
+Module 5:  (10hrs.) 
+Reasoning in uncertain environments, Fuzzy logic, fuzzy composition relation, operations on fuzzy 
+sets. Probabilistic reasoning, Bayes theorem, construction of Bayesian networks, belief 
+propagation. Markov processes and Hidden Markov models. 
+ 
+---PAGE 9---
+IPS Academy, Institute of Engineering & Science 
+(A UGC Autonomous Institute, Affiliated to RGPV, Bhopal) 
+Bachelor of Technology (B.Tech.)  
+Department of Computer Science & Engineering (AIML) 
+ 
+Semester VIII 
+             
+  
+ 
+List of Text / Reference Books: 
+1. “Artificial Intelligence”: Elaine Rich, Kevin Knight, Mc-Graw Hill. 
+2. “Introduction to AI & Expert System”: Dan W. Patterson, PHI. 
+3. “Artificial Intelligence” by Luger (Pearson Education). 
+4. Russel & Norvig, “Artificial Intelligence: A Modern Approach”, Pearson Education 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Course Outcomes: 
+After completion of the course the student will be able to: 
+1. State the core concepts of Artificial Intelligence, It’s foundation and principles. 
+2. Examine the useful search techniques; learn their advantages and disadvantages and be 
+able to develop intelligent systems. 
+3. Learn the practical applicability of intelligent systems, specifically its applications. 
+4. Understand AI in different areas like NLP, Pattern Recognition, game planning etc. 
+5. Understand important concepts like Expert Systems, AI applications. 
+---PAGE 10---
+IPS Academy, Institute of Engineering & Science 
+(A UGC Autonomous Institute, Affiliated to RGPV, Bhopal) 
+Bachelor of Technology (B.Tech.)  
+Department of Computer Science & Engineering (AIML) 
+ 
+Semester VIII 
+             
+  
+PCC-LC-CL01 (P) Computer System 
+Organization Lab 0L: 0T:02P (2hrs.) Credits: 1 
+ 
+Prerequisite: Nil 
+Course Objective:  
+Students to be familiarize the basic principles of computer architecture, Design and 
+Multiprocessing, Types of data transfer, Concept of semiconductor memories which is useful for 
+research work in field Computer System. 
+Course Contents: 
+Module1:   
+Introduction to Desktop Computers, Introduction to 8085 microprocessor,  8085 Instruction set, 
+Flags, Logic Gates, Combinational circuits, Multiplexer, Demultiplexer. 
+Module 2:   
+Introduction to Binary number systems, 1’s & 2’s Complement, Arithmetic Operations, Half adder, 
+Half subtractor, Full Adder and Full Subtractor. 
+Module 3:   
+Introduction to Assembly Language, Programming Arithmetic and Logic Operations, Shift 
+Operations, Program Loops. 
+ 
+Module 4:   
+Memory Hierarchy, Main Memory, Types of Memory, Memory Allocation Methods, Virtual 
+Memory, Page Replacement Algorithms. 
+Module 5:   
+Characteristics of Multiprocessor, RISC And CISC, Study of Multicore Processor–Intel, AMD. 
+ 
+  
+---PAGE 11---
+IPS Academy, Institute of Engineering & Science 
+(A UGC Autonomous Institute, Affiliated to RGPV, Bhopal) 
+Bachelor of Technology (B.Tech.)  
+Department of Computer Science & Engineering (AIML) 
+ 
+Semester VIII 
+             
+  
+ 
+List of Practical’s: 
+1. Case study of Desktop Computers. 
+2. Study of Multiplexer and Demultiplexer. 
+3. Write Program to demonstrate Flags in microprocessor 8085. 
+4. Study of Half Adder and Half Subtractor. 
+5. Study of Full Adder and Full Subtractor. 
+6. Write a program to add the contents of memory locations 4000H and 4001H and place 
+the result in memory location 4002H. 
+7. Write a program to multiply two 8-bit numbers stored in memory locations 2200H and 
+2201H byre petitive addition and store the result in memory locations 2300H and 
+2301H. 
+8. Program for simulate memory allocation strategies (First fit, Best fit, Worst fit). 
+9. Programs for page replacement algorithms. 
+10. Case study of RISC And CISC. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Course Outcomes: 
+After completion of the course the student will be able to 
+1. Explain the basic structure & components of the computer system, 8085 Micro 
+Processor. 
+2. Demonstrate the concepts of computer arithmetic. 
+3. Demonstrate the concepts of Assembly Language. 
+4. Illustrate memory organization and memory management techniques. 
+5. State the core concepts of multiprocessor. 
+---PAGE 12---
+IPS Academy, Institute of Engineering & Science 
+(A UGC Autonomous Institute, Affiliated to RGPV, Bhopal) 
+Bachelor of Technology (B.Tech.)  
+Department of Computer Science & Engineering (AIML) 
+ 
+Semester VIII 
+             
+  
+PCC-LC-CL02 (P) Data Structure & 
+Algorithm Lab 0L: 0T:02P (2hrs.) Credits:01 
+ 
+Prerequisite: Nil 
+Course Objective:  
+The objective of this course is to understand different types of data structures and algorithms used 
+in program. 
+Course Contents: 
+Module 1:   
+Arrays, String, & their representation & Operations. Linked List: Representation of linked list in 
+memory, different implementation of linked list. Circular linked list, doubly linked list, etc. 
+Module 2:   
+Stacks: Stacks as ADT, Different implementation of stack, multiple stacks. Application of Stack: 
+Conversion of infix to postfix notation using stack, evaluation of postfix expression, Recursion, 
+Example of recursion. 
+Module 3:   
+Queues: Queues as ADT, Different implementation of queue, Circular queue, Concept of Dequeue 
+and Priority Queue, Queue simulation, Application of queues. 
+Module 4:   
+Tree: Definitions - Height, depth, order, degree etc. Binary Search Tree - Operations, Traversal, 
+Search. Graphs: Introduction, Classification of graph: Directed and Undirected graphs, etc., 
+Representation, Graph Traversal: Depth First Search (DFS), Breadth First Search (BFS). 
+Module 5:   
+Sorting: Introduction, Classification of sorting method, Sort methods like: Bubble Sort, Quick sort. 
+Selection sort, Heap sort, Insertion sort. Searching: Basic Search Techniques: Sequential search, 
+Binary search, Comparison of search methods. 
+ 
+  
+---PAGE 13---
+IPS Academy, Institute of Engineering & Science 
+(A UGC Autonomous Institute, Affiliated to RGPV, Bhopal) 
+Bachelor of Technology (B.Tech.)  
+Department of Computer Science & Engineering (AIML) 
+ 
+Semester VIII 
+             
+  
+ 
+List of Text / Reference Books: 
+1. To perform insertion and deletion operations on array. (CO1) 
+2. To perform multiplication operation on matrix. (CO1) 
+3. To implement single linked list. (CO1) 
+4. To implement doubly linked list. (CO1) 
+5. To calculate factorial of number using recursion. (CO1) 
+6. To demonstrate static implementation of stack. (CO2) 
+7. To demonstrate dynamic implementation of stack. (CO2) 
+8. To demonstrate static implementation of Linear queue. (CO3) 
+9. To demonstrate dynamic implementation of Linear queue. (CO3) 
+10. To implement circular queue. (CO3) 
+11. To implement binary search tree. (CO4) 
+12. To perform BFS and DFS operations on graph. (CO4) 
+13. To perform binary search operation. (CO5) 
+14. To perform sorting operation using bubble sort. (CO5) 
+15. To perform sorting operation using insertion sort. (CO5) 
+ 
+. 
+ 
+ 
+  
+Course Outcomes: 
+After completion of the course the student will be able to: 
+1. Understand basic data structures such as arrays, linked lists. 
+2. Introduce the concept of data structures through ADT including stack. 
+3. Understand the basic operations of Queues. 
+4. Understand the basic concept of Tree and Graph and their operations. 
+5. Demonstrate and implement searching sorting algorithms. 
+---PAGE 14---
+IPS Academy, Institute of Engineering & Science 
+(A UGC Autonomous Institute, Affiliated to RGPV, Bhopal) 
+Bachelor of Technology (B.Tech.)  
+Department of Computer Science & Engineering (AIML) 
+ 
+Semester VIII 
+             
+PCC-LC-CL03 (P) 
+Object Oriented 
+Programming & Methodology 
+Lab 
+0L: 0T:02P 
+(2hrs.) Credits:01 
+ 
+Prerequisite: Programming for Problem Solving 
+Course Objective:  
+This course designed to provide knowledge of Object-Oriented Programming. It introduces object -
+oriented programming using the Java programming language. The course is designed to enhance 
+the programming skills of the students by giving practical assignments to be done in labs. Its main 
+objective is to teach the basic concepts and techniques of object-oriented programming paradigm. 
+Students will learn how to program in Java and use some of its most important APIs. 
+Course Contents: 
+Module 1:   
+Introduction to Object Oriented Programming, Basics of Java programming, Data types, Variables, 
+Operators, Control structures, looping; Introduction to Java Development Kit (JDK) & Java virtual 
+machine (JVM); Linker & Loader; Data Encapsulation: Concept of Classes & Objects. 
+Module 2:   
+Data Abstraction and Message Passing: Methods, constructors, Keywords: this, static; Access 
+modifiers, Arrays within a class, String Class. 
+Module 3:   
+Relationship between classes: Inheritance, Types of Inheritance, Ambiguity inmultiple 
+inheritances, Concept of interfaces; Specialization - Association, Aggregation and Composition; 
+Static and Dynamic Binding: Polymorphism, Method Overriding & Overloading; Keywords: 
+super, abstract, final. 
+Module 4:   
+Concept of Packages, Need of package; Basic idea of exception handling, Exception types: 
+Exception Handling Try, Catch, Finally, Throw statement, Assertions. 
+Module 5:   
+Overview of Simple threads, thread life cycle and methods, Runnable interface, Thread 
+synchronization, Basic idea of Multithreaded Programming. 
+ 
+  
+ 
+---PAGE 15---
+IPS Academy, Institute of Engineering & Science 
+(A UGC Autonomous Institute, Affiliated to RGPV, Bhopal) 
+Bachelor of Technology (B.Tech.)  
+Department of Computer Science & Engineering (AIML) 
+ 
+Semester VIII 
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Course Outcomes: 
+After completion of the course the student will be able to: 
+1. Understand object -oriented programming principles and apply them in solving 
+Problems. 
+2. Develop skill in data abstraction and message passing. 
+3. Understand fundamentals of relationship amongst objects. 
+4. Learn about the need of exception and errors. 
+5. Understand the concept of threads. 
+List of Practical’s: 
+1. Write a program to show Concept of CLASS in JAVA. (CO1) 
+2. Write a program to show Concept of Constructor in JAVA. (CO2) 
+3. Write a program to show Concept of Arrays in JAVA. (CO2) 
+4. Write a Program to show Inheritance. (CO3) 
+5. Write a program to show Polymorphism (method overloading and overriding). (CO3) 
+6. Write a program to show Interfacing between two classes. (CO4) 
+7. Write a program to show Exception handling. (CO4) 
+8. Write a program to Add a Class to a Package. (CO4) 
+9. Write a program to show Life Cycle of a Thread. (CO5) 
+10. Write a program to demonstrate multithreading using Java. (CO5) 
+---PAGE 16---
+IPS Academy, Institute of Engineering & Science 
+(A UGC Autonomous Institute, Affiliated to RGPV, Bhopal) 
+Bachelor of Technology (B.Tech.)  
+Department of Computer Science & Engineering (AIML) 
+ 
+Semester VIII 
+             
+  
+PCC-LC-CL04(P) Artificial Intelligence Lab 0L: 0T:02P (2hrs.) Credits:01 
+ 
+Prerequisite: Nil 
+Course Objective: 
+The objective of this course is to understand different types of data structures and algorithms used 
+in program. 
+Module 1:  (10hrs.) 
+Introduction to Prolog and AI Concepts: Overview of Prolog, Introduction to Prolog, Applications 
+and uses of Prolog, Basic AI Concepts, Introduction to Expert Systems, AI applications in various 
+fields 
+Module 2:  (8hrs.) 
+Syntax, Meaning of Prolog Programs, and Basic Problem Solving: Syntax and Meaning of Prolog 
+Programs, Basic syntax and structure of Prolog programs, Data objects in Prolog, Matching in 
+Prolog, Declarative meaning of Prolog programs, Procedural meaning of Prolog programs, Basic 
+AI Problem Solving, Monkey and banana problem 
+Module 3:   (9hrs.) 
+Lists and Operations: Lists in Prolog , Introduction to lists, Representation of lists in Prolog, 
+Operations on Lists, Common list operations, Example programs using lists 
+Module 4:  (10 hrs.) 
+Advanced Prolog  Concepts and Real -World Applications: Operators and Arithmetic, Operator 
+notation in Prolog, Arithmetic operations in Prolog, Using Structures, Retrieving structured 
+information from a database, Doing data abstraction, Simulating a non -deterministic automaton, 
+Travel planning 
+Module 5:  (08hrs.) 
+Problem Solving and Control Techniques in Prolog: Complex Problems in Prolog, The  eight 
+queens' problem, Controlling Backtracking, Techniques to control backtracking in Prolog 
+programs, Example programs illustrating backtracking control. 
+ 
+  
+---PAGE 17---
+IPS Academy, Institute of Engineering & Science 
+(A UGC Autonomous Institute, Affiliated to RGPV, Bhopal) 
+Bachelor of Technology (B.Tech.)  
+Department of Computer Science & Engineering (AIML) 
+ 
+Semester VIII 
+             
+  
+ 
+List of Text / Reference Books: 
+1. Installation of gnu-prolog, Study of Prolog (gnu-prolog), its facts, and rules. 
+2. Write simple facts for the statements and querying it. 
+3. Write a program for Family-tree. 
+4. Write Program for Monkey-banana Problem. 
+5. Write a program which behaves a small expert for medical Diagnosis. 
+6. Write programs for computation of recursive functions like factorial Fibonacci 
+numbers, etc. 
+7. Write program to solve 5-queens problem. 
+8. Write a Program for water jug problem. 
+9. Write a program for travelling salesman program. 
+10. Case study of standard AI programs like Mycin and AI Shell. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Course Outcomes: 
+After completion of the course the student will be able to: 
+1. Understand important concepts like Expert Systems, AI applications. 
+2. Solve basic AI based problems. 
+3. Define the concept of Artificial Intelligence. 
+4. Apply AI techniques to real-world problems to develop intelligent systems. 
+5. Select appropriately from a range of techniques when implementing intelligent 
+systems. 
+---PAGE 18---
+IPS Academy, Institute of Engineering & Science 
+(A UGC Autonomous Institute, Affiliated to RGPV, Bhopal) 
+Bachelor of Technology (B.Tech.)  
+Department of Computer Science & Engineering (AIML) 
+ 
+Semester VIII 
+             
+PCC-LC-CL05 (P) Programming in Python 0L: 0T:02P 
+(2hrs.) Credits:01 
+ 
+Prerequisite: Nil 
+Course Objective:  
+The course is designed to provide Basic knowledge of Python. Python programming is intended for 
+software engineers, system analysts, program managers and user support personnel who wish to 
+learn the Python programming language. Learning Outcomes: Problem solving and programming 
+capability. 
+Course Contents: 
+Module1:   
+Introduction History, Features, Python –Environment Setup Local Environment Setup, Getting 
+Python, Installation of Python, Use of IDE. 
+Module 2:   
+Python – Basic Syntax Python Identifiers, Reserved Words, Lines & Indentation, Multiline 
+Statements, Quotation in Python, Comments & other useful constructs, Python –Variables 
+Assigning Values to Variables, Multiple Assignment, Standard Data Types. 
+Module 3:   
+Python – Variables, Assigning Values to Variables, Multiple Assignment, Standard Data Types; 
+Python Numbers, Python Strings, Python Lists, Python Tuples, Dictionary, Data Type Conversion. 
+Module 4:   
+Python– Basic Operators, Types of Operators, Arithmetic Operators, Comparison Operators, 
+Assignment Operators, Bitwise Operators, Logical Operators, Operator Precedence, Python – 
+Decision Making & Loops, Flowchart, If statement Syntax. Python - Functions, Syntax for 
+defining a function, Calling a Function, Function Arguments, Anonymous Functions 
+PythonApplications & Further Extensions, Data analysis packages. 
+Module 5:   
+Python File Operations: Reading files, Writing  files in python, Understanding read functions, 
+read(), readline(), readlines(). Understanding write functions, write() and writelines() Manipulating 
+file pointer using seek Programming, using file operations. Database Programming: Connecting to 
+a database, Creating Tables, INSERT, UPDATE, DELETE and READ operations, Transaction 
+Control, Disconnecting from a database, and Exception Handling in Databases. 
+ 
+---PAGE 19---
+IPS Academy, Institute of Engineering & Science 
+(A UGC Autonomous Institute, Affiliated to RGPV, Bhopal) 
+Bachelor of Technology (B.Tech.)  
+Department of Computer Science & Engineering (AIML) 
+ 
+Semester VIII 
+             
+  
+ 
+List of Text / Reference Books: 
+1. Design GUI Applications in Python and evaluate different database operations. 
+2. Python program to find the union of two lists. (CO1) 
+3. Python program to find the intersection of two lists. (CO1) 
+4. Python program to remove the “i” th occurrence of the given word in a list where 
+words repeat. (CO2) 
+5. Python program to count the occurrences of each word in a given string sentence. 
+(CO2) 
+6. Python program to check if a substring is present in a given string. (CO2) 
+7. Python program to map two lists into a dictionary. (CO3) 
+8. Python program to count the frequency of words appearing in a string using a 
+dictionary. (CO3) 
+9. Python program to create a dictionary with key as first character and value as words 
+starting with that character. (CO4) 
+10. Python program to find the length of a list using recursion. (CO4) 
+11. Python program to read a file and capitalize the first letter of every word in the file. 
+(CO5) 
+12. Python program to read the contents of a file in reverse order. (CO5) 
+ 
+ 
+ 
+ 
+ 
+ 
+Course Outcomes: 
+After completion of the course the student will be able to: 
+1. Install Python and have knowledge of syntax of Python. 
+2. Describe the Numbers, Math functions, Strings, List, Tuples and Dictionaries in 
+Python. 
+3. Express different Decision-Making statements and Functions. 
+4. Develop code in Python using functions, loops, etc. 
+5. Design GUI Applications in Python and evaluate different database operations. 
