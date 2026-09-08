@@ -1,4 +1,5 @@
 import json
+from sentence_transformers import SentenceTransformer
 
 JSON_PATH = "data/processed/semester_3.json"
 
@@ -72,6 +73,21 @@ def create_chunks(data):
     return chunks
 
 
+def generate_embeddings(chunks):
+    model = SentenceTransformer("all-MiniLM-L6-v2")
+
+    texts = [chunk["topic"] for chunk in chunks]
+
+    embedding = model.encode(
+        texts, 
+        show_progress_bar = True
+    )
+
+    for chunk, embedding in zip(chunks, embedding):
+        chunk["embedding"] = embedding.tolist()
+
+    return chunks
+
 def save_chunks(chunks):
     output_path = "data/processed/chunks.json"
 
@@ -87,8 +103,12 @@ if __name__ == "__main__":
 
     print(f"Total chunks created: {len(chunks)}")
 
-    save_chunks(chunks)
+    chunks = generate_embeddings(chunks)
 
-    print("\nFirst 5 chunks:")
-    for chunk in chunks[:5]:
-        print(chunk)
+    print("Embedding Generated Successfully!")
+
+    print("First chunk:")
+    print(chunks[0])
+
+    print("Embedding size:")
+    print(len(chunks[0]["embedding"]))
