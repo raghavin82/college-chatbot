@@ -26,9 +26,10 @@ def health():
 @app.post("/chat")
 def chat(request: ChatRequest):
 
-    answer = generate_answer(request.question)
+    result = generate_answer(request.question)
 
     return {
         "question" : request.question,
-        "answer" : answer
+        "answer" : result["answer"],
+        "sources": result["sources"]
     }

@@ -19,7 +19,10 @@ def generate_answer(question):
 
     # No relevant information found
     if not documents:
-        return "I couldn't find this information in the available syllabus."
+        return {
+            "answer": "I couldn't find this information in the available syllabus.",
+            "sources": []
+        }
 
     # Build syllabus context
     context_parts = []
@@ -80,7 +83,18 @@ ANSWER:
 """
     )
 
-    return response.text
+    return {
+        "answer" : response.text,
+        "sources" : [
+            {
+                "subject_code": metadatas[i]["course_code"],
+                "subject": metadatas[i]["course_name"],
+                "module": metadatas[i]["module"],
+                "topic": metadatas[i]["topic"]
+            }
+            for i in range(len(metadatas))
+        ]
+    }
 
 
 if __name__ == "__main__":
