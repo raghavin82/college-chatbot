@@ -2,6 +2,8 @@ const chatBox = document.getElementById("chat-box");
 const questionInput = document.getElementById("question-input");
 const sendButton = document.getElementById("send-button");
 
+let conversationHistory = [];
+
 
 function addMessage(message, type) {
 
@@ -72,7 +74,8 @@ async function sendMessage() {
             },
 
             body: JSON.stringify({
-                question: question
+                question: question,
+                history: conversationHistory
             })
 
         });
@@ -106,6 +109,16 @@ async function sendMessage() {
 
         // Display chatbot answer
         addMessage(answer, "bot");
+
+        conversationHistory.push({
+            role: "user",
+            content: question
+        });
+
+        conversationHistory.push({
+            role: "assistant",
+            content: data.answer
+        });
 
 
         // Re-enable controls

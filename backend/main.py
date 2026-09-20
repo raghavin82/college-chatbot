@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 
 from backend.rag import generate_answer
 
@@ -19,6 +19,7 @@ app.add_middleware(
 
 class ChatRequest(BaseModel):
     question : str
+    history: list = Field(default_factory=list)
 
 
 @app.get("/")
@@ -46,7 +47,7 @@ def chat(request: ChatRequest):
         }
 
     try:
-        result = generate_answer(question)
+        result = generate_answer(question, request.history)
 
     except Exception as error:
 

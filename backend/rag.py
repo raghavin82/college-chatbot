@@ -9,7 +9,10 @@ from backend.semantic_search import search
 load_dotenv()
 
 
-def generate_answer(question):
+def generate_answer(question, history = None):
+
+    if history is None:
+        history = []
 
     # Retrieve relevant syllabus information
     results = search(question)
@@ -39,6 +42,18 @@ def generate_answer(question):
         )
 
     context = "\n\n".join(context_parts)
+
+    history_text = ""
+
+    if history:
+        history_parts = []
+
+        for message in history:
+            history_parts.append(
+                f"{message['role']}: {message['content']}"
+            )
+
+        history_text = "\n".join(history_parts)
 
     # Create Gemini client
     api_key = os.getenv("GEMINI_API_KEY")
@@ -73,6 +88,10 @@ STRICT RULES:
 12. Do not repeat the same topic unless it appears as a genuinely separate syllabus entry.
 13. For topic-list questions, preserve the syllabus terminology exactly rather than rewriting topic names.
 14. Keep answers concise and student-friendly.
+15. Use conversation history only to understand references or follow-up questions. All factual answers must still be supported by the syllabus context.
+
+CONVERSATION HISTORY:
+{history_text}
 
 SYLLABUS CONTEXT:
 {context}
