@@ -26,10 +26,27 @@ def health():
 @app.post("/chat")
 def chat(request: ChatRequest):
 
-    result = generate_answer(request.question)
+    question = request.question.strip()
 
+    if not question:
+        return{
+            "question": "",
+            "answer": "Please enter a question.",
+            "sources": []
+        }
+
+    try:
+        result = generate_answer(question)
+
+    except Exception:
+        return {
+            "question": question,
+            "answer": "Sorry, I couldn't process your question right now.",
+            "sources": []
+        }
+    
     return {
-        "question" : request.question,
+        "question" : question,
         "answer" : result["answer"],
         "sources": result["sources"]
     }
