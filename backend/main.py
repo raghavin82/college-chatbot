@@ -1,6 +1,9 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
 
+from backend.rag import generate_answer
+
+
 app = FastAPI()
 
 
@@ -10,18 +13,21 @@ class ChatRequest(BaseModel):
 
 @app.get("/")
 def home():
-    return {"message" : "College Chatbot API is running!"}
+    return {
+        "message" : "College Chatbot API is running!"
+    }
 
 @app.get("/health")
 def health():
-    return {"status" : "healthy"}
+    return {
+        "status" : "healthy"
+    }
 
 @app.post("/chat")
 def chat(request: ChatRequest):
-    if "hello" in request.question.lower():
-        answer = "Hello! How can I help you?"
-    else:
-        answer = "I recieved your question, but I don't know the answer yet."
+
+    answer = generate_answer(request.question)
+
     return {
         "question" : request.question,
         "answer" : answer
